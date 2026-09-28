@@ -1,0 +1,21 @@
+{
+  "name": "booking-system-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Public read-only API serving the prepared short-stay listing dataset.",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "csv-parse": "^7.0.2",
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1"
+  }
+}

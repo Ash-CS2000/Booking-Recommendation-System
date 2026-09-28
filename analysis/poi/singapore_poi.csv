@@ -1,0 +1,2001 @@
+osm_id,osm_type,category,name,latitude,longitude
+206477134,node,mrt_station,Aljunied,1.3164515,103.8829087
+206493462,node,mrt_station,Kallang,1.3114669,103.8713388
+206529415,node,mrt_station,Yio Chu Kang,1.3817905,103.8449359
+207725957,node,mrt_station,Bedok,1.3239666,103.9302175
+208526059,node,mrt_station,Redhill,1.2896353,103.8167692
+208527368,node,mrt_station,Queenstown,1.2946226,103.8060366
+209390589,node,mrt_station,Commonwealth,1.3024428,103.7983085
+209451013,node,mrt_station,Dover,1.3114155,103.7786108
+209451066,node,mrt_station,Jurong East,1.333108,103.7422939
+209451088,node,mrt_station,Chinese Garden,1.3424141,103.7325474
+209451110,node,mrt_station,Lakeside,1.34425,103.7206931
+268259662,node,mrt_station,Ranggung,1.3840465,103.8973612
+319830199,node,attraction,Bonsai Garden,1.3382963,103.7300601
+368260503,node,convenience_store,7-Eleven,1.3908699,103.8899724
+368278973,node,convenience_store,7-Eleven,1.3939865,103.8892811
+368278996,node,convenience_store,Shell Shop,1.3916146,103.8927199
+369123892,node,supermarket,FairPrice,1.3856119,103.9025772
+369124085,node,convenience_store,7-Eleven,1.3857165,103.9023251
+369126806,node,convenience_store,newecon minimart,1.3952017,103.8994339
+369127276,node,supermarket,Giant,1.3794345,103.88795
+369128055,node,supermarket,FairPrice,1.3725281,103.8939238
+369128171,node,supermarket,FairPrice,1.3824983,103.893624
+369129230,node,convenience_store,Cheers,1.3856259,103.901657
+369130468,node,supermarket,FairPrice,1.3923199,103.904213
+370746817,node,convenience_store,7-Eleven,1.3904025,103.9013531
+370750313,node,supermarket,FairPrice,1.3943753,103.912923
+380581806,node,supermarket,FairPrice,1.3575602,103.8841371
+385877670,node,mrt_station,Boon Lay,1.3385504,103.7058124
+385878107,node,mrt_station,Pioneer,1.3375884,103.6974103
+385878948,node,mrt_station,Joo Koon,1.327735,103.6782221
+390912052,node,mrt_station,Cheng Lim,1.3962917,103.8937904
+390918399,node,mrt_station,Farmway,1.3971948,103.8892243
+391187489,node,mrt_station,Fernvale,1.3919037,103.8762794
+391188031,node,mrt_station,Kupang,1.3982038,103.881246
+391188200,node,mrt_station,Thanggam,1.3973334,103.8756345
+391189258,node,mrt_station,Layar,1.3920846,103.8800319
+391189922,node,mrt_station,Tongkang,1.3894081,103.8858267
+391190166,node,mrt_station,Renjong,1.3867294,103.8905331
+391291543,node,supermarket,Sheng Siong Supermarket,1.3815806,103.8970373
+393148957,node,supermarket,Giant Hypermarket,1.3312172,103.9483149
+410463765,node,mall,The Star Vista,1.3080015,103.7883825
+512042742,node,supermarket,FairPrice Finest,1.3014954,103.839658
+512090776,node,attraction,Southernmost Point of Continental Asia,1.2480157,103.8213159
+575526181,node,supermarket,FairPrice,1.3123256,103.9253617
+598051934,node,supermarket,FairPrice,1.3373298,103.9218002
+600332523,node,supermarket,FairPrice Finest,1.301342,103.9071774
+602090006,node,attraction,Sundial Garden,1.3095121,103.8163133
+602090007,node,attraction,Hoya House,1.3099652,103.8162532
+602090009,node,attraction,Ginger Garden,1.310897,103.8150737
+602090012,node,attraction,Bandstand,1.3103872,103.8163537
+602165422,node,attraction,Herbs and Spices,1.3203161,103.8156956
+610738130,node,supermarket,Cold Storage Fresh,1.3001235,103.8560555
+670229356,node,supermarket,FairPrice,1.2925348,103.8113068
+671080855,node,convenience_store,7-Eleven,1.3001872,103.8522224
+679649210,node,supermarket,FairPrice,1.3128156,103.7658379
+682556848,node,supermarket,FairPrice,1.2812832,103.8100855
+703814975,node,supermarket,GOGO Supermarket Harbour Bay,1.1543067,104.0016098
+703815606,node,convenience_store,Circle K,1.14987,104.00285
+703823558,node,mall,Plaza Top 100 Jodoh,1.14711,104.00362
+703825746,node,convenience_store,Cirkel K Minimarket (24Hrs),1.14796,104.01251
+719041515,node,mall,Psr Tg Uma,1.14766,103.99903
+736620773,node,supermarket,Hypermart Nagoya Hill,1.146216,104.0122964
+736621176,node,convenience_store,Mini Market Jodoh Center,1.1500001,104.0054299
+736625608,node,convenience_store,Circle K,1.15054,104.0085999
+775915335,node,convenience_store,Cheers,1.4489312,103.8200046
+775915336,node,convenience_store,Cheers,1.4481249,103.8190277
+775915343,node,supermarket,Giant,1.441726,103.8250677
+775915346,node,supermarket,FairPrice,1.4495608,103.8186291
+775915353,node,supermarket,FairPrice,1.4479385,103.8195511
+846528515,node,supermarket,Shop N Save,1.4309761,103.7942332
+888243389,node,supermarket,Cold Storage,1.3176941,103.7859561
+893018192,node,convenience_store,7-Eleven,1.370052,103.957437
+902981762,node,supermarket,Top 100 Bengkong,1.1533439,104.0243451
+902983712,node,mall,Bengkong Shopping Centre,1.1580158,104.0259714
+903048733,node,mall,Jodoh Centre Bengkong,1.15837,104.02236
+956600609,node,supermarket,Prime,1.3588218,103.7504894
+956607185,node,convenience_store,7-Eleven,1.3566164,103.7523068
+965876975,node,convenience_store,7-Eleven,1.2472062,103.8397265
+966688739,node,supermarket,Giant,1.3416529,103.6970064
+966690602,node,supermarket,Sheng Siong,1.3255871,103.7251859
+1098821707,node,supermarket,Prime Supermarket,1.3416614,103.6912857
+1099727750,node,convenience_store,7-Eleven,1.3418641,103.7027677
+1112398938,node,convenience_store,Li Li Cheng Minimart,1.3397875,103.69403
+1126074401,node,supermarket,Sheng Siong,1.3221125,103.738207
+1126074409,node,supermarket,FairPrice,1.3205044,103.7426546
+1264537429,node,supermarket,Cold Storage,1.3215309,103.9555771
+1264721121,node,supermarket,Giant,1.3586036,103.7492177
+1275651889,node,convenience_store,7-Eleven,1.3018284,103.853275
+1315774069,node,supermarket,FairPrice,1.3257807,103.9316518
+1315774131,node,supermarket,Sheng Siong,1.3244941,103.9310939
+1315774209,node,convenience_store,Unnamed,1.325298,103.9314399
+1316097199,node,mrt_station,Resorts World,1.2555418,103.8209626
+1316098766,node,mrt_station,Imbiah,1.2539153,103.8194525
+1427272807,node,convenience_store,Cheers,1.2834881,103.8348084
+1491823410,node,convenience_store,JJ Collection (warungbutik.com),1.147743,104.0089192
+1493817405,node,supermarket,FairPrice,1.2932215,103.8268848
+1547412240,node,mrt_station,Gul Circle,1.3196353,103.6606551
+1547515539,node,mrt_station,Tuas Crescent,1.3211582,103.6489064
+1547519833,node,mrt_station,Tuas West Road,1.3300518,103.6395694
+1547550796,node,mrt_station,Tuas Link,1.3402939,103.6367718
+1558126659,node,supermarket,FairPrice,1.3153813,103.7643947
+1563387442,node,supermarket,FairPrice,1.350271,103.8485161
+1573758499,node,convenience_store,Mama shop,1.3206824,103.8537683
+1573776644,node,supermarket,FairPrice,1.3238372,103.8557907
+1573778367,node,convenience_store,Cheers,1.3212284,103.853153
+1573778377,node,convenience_store,Cheers,1.3233245,103.8524309
+1619228568,node,mrt_station,Kembangan,1.3210321,103.9129269
+1639480363,node,mrt_station,Johor Bahru Sentral,1.4629737,103.7646343
+1654423029,node,supermarket,Cold Storage Fresh,1.3101598,103.7953924
+1663978962,node,supermarket,FairPrice,1.2909214,103.8026888
+1675182853,node,supermarket,FairPrice,1.2864697,103.8265783
+1686891463,node,convenience_store,7-Eleven,1.2891697,103.7779041
+1697933552,node,supermarket,CS Fresh,1.3874746,103.8693009
+1699440753,node,supermarket,Cold Storage,1.3916794,103.8948873
+1699440754,node,supermarket,FairPrice,1.375571,103.8795488
+1699579425,node,supermarket,Sheng Siong,1.3677466,103.8364503
+1699579426,node,supermarket,Sheng Shiong,1.3702891,103.8434139
+1699579430,node,supermarket,FairPrice Xtra,1.3693018,103.8488529
+1699621345,node,supermarket,FairPrice Finest,1.3543366,103.8302338
+1704365411,node,supermarket,ACE Marketplace,1.2777764,103.8310198
+1704458330,node,supermarket,FairPrice,1.2973182,103.8383052
+1711105937,node,supermarket,Cold Storage,1.3307365,103.7955242
+1711105940,node,convenience_store,7-Eleven,1.3331337,103.7904332
+1720515711,node,convenience_store,Cheers,1.3705495,103.8281707
+1734613772,node,convenience_store,Gbabe Fashion,1.1474834,104.0094758
+1742904249,node,convenience_store,SPC Bukit Batok Service Station,1.3432114,103.7585416
+1766486405,node,attraction,Long Bar,1.2951307,103.8534677
+1767623973,node,mrt_station,Simei,1.3431881,103.953371
+1830344672,node,convenience_store,7-Eleven,1.4716586,103.7365425
+1833748775,node,convenience_store,Barrage Cove,1.28028,103.8705782
+1834207944,node,convenience_store,7-Eleven,1.3276428,103.9038308
+1839603987,node,supermarket,Cold Storage,1.3010098,103.8450553
+1839617627,node,mrt_station,Bukit Batok,1.3490572,103.7495906
+1840733395,node,mrt_station,Admiralty,1.4406369,103.8009592
+1840733396,node,mrt_station,Bangkit,1.3800412,103.7726501
+1840733403,node,mrt_station,Bukit Gombak,1.3588929,103.7518249
+1840733410,node,mrt_station,Fajar,1.3845932,103.7708754
+1840733416,node,mrt_station,Jelapang,1.3866937,103.7645139
+1840733418,node,mrt_station,Keat Hong,1.3786034,103.7490207
+1840733423,node,mrt_station,Kranji,1.4252189,103.7619891
+1840733426,node,mrt_station,Marsiling,1.4325704,103.7741243
+1840733433,node,mrt_station,Pending,1.3761841,103.7712587
+1840733434,node,mrt_station,Petir,1.3777652,103.7666291
+1840733435,node,mrt_station,Phoenix,1.3786164,103.758008
+1840733437,node,mrt_station,Segar,1.3877855,103.7695804
+1840733438,node,mrt_station,Sembawang,1.4490928,103.8200555
+1840733439,node,mrt_station,Senja,1.3826778,103.7623822
+1840733442,node,mrt_station,South View,1.3802716,103.7452826
+1840733448,node,mrt_station,Teck Whye,1.3766705,103.7536471
+1840733455,node,mrt_station,Yew Tee,1.3974608,103.7474009
+1840733456,node,mrt_station,Yishun,1.4293839,103.8350282
+1840734571,node,mrt_station,Bakau,1.3880083,103.905418
+1840734575,node,mrt_station,Compassvale,1.394518,103.9004349
+1840734595,node,mrt_station,Kangkar,1.3839286,103.9022055
+1840734605,node,mrt_station,Rumbia,1.3914749,103.9059729
+1844016094,node,attraction,Marsh Garden,1.306808,103.8170484
+1844016097,node,attraction,Orchid Breeding and Micropropagation Lab,1.3085082,103.8181312
+1844016099,node,attraction,Vanda Miss Joaquim,1.3106108,103.8160046
+1847853694,node,supermarket,NTUC Fairprice,1.4350439,103.7867602
+1873233368,node,attraction,Far Far Away,1.254964,103.8236226
+1873233370,node,attraction,Hollywood,1.2559302,103.8220744
+1873233371,node,attraction,Madagascar,1.2554986,103.8228409
+1873233373,node,attraction,New York,1.2545643,103.8212738
+1873233374,node,attraction,Sci-Fi City,1.2536771,103.8219998
+1932070071,node,supermarket,FairPrice Finest,1.3004599,103.8371761
+1932121781,node,supermarket,FairPrice Xtra,1.3396665,103.7055473
+1932121782,node,supermarket,FairPrice Xtra,1.3510423,103.8722775
+1932134160,node,supermarket,Giant,1.3340708,103.7472706
+1932134161,node,supermarket,Giant,1.3779605,103.73864
+1932134164,node,supermarket,Sheng Siong,1.3805261,103.7600191
+1932156554,node,supermarket,Cold Storage,1.3020336,103.8763916
+1932205655,node,supermarket,FairPrice Finest,1.2744573,103.8436539
+1932205656,node,supermarket,FairPrice,1.2760543,103.843136
+1932207202,node,supermarket,FairPrice,1.3382406,103.7783181
+1932208798,node,supermarket,FairPrice,1.3464969,103.7121589
+1932258472,node,supermarket,FairPrice Finest,1.3059351,103.8328831
+1932264501,node,supermarket,FairPrice Finest,1.3345959,103.9627854
+1932275054,node,supermarket,FairPrice,1.2829291,103.8175344
+1932275056,node,supermarket,FairPrice,1.3239226,103.8098403
+1932275057,node,supermarket,FairPrice Finest,1.380491,103.7641782
+1932291017,node,supermarket,FairPrice,1.3430246,103.9528291
+1932291021,node,supermarket,FairPrice,1.3521442,103.9444897
+1932291025,node,supermarket,FairPrice,1.3724307,103.9496345
+1932291026,node,supermarket,FairPrice,1.3760422,103.9553166
+1932291027,node,supermarket,FairPrice,1.3186022,103.8944483
+1932291028,node,supermarket,FairPrice,1.320599,103.8442909
+1932291030,node,supermarket,FairPrice,1.3849878,103.7450943
+1932291031,node,supermarket,FairPrice,1.3971564,103.7466885
+1932320732,node,supermarket,CS Fresh,1.2938703,103.8319081
+1932320733,node,supermarket,Cold Storage,1.2994785,103.7875648
+1932320736,node,supermarket,Cold Storage,1.3021406,103.8353196
+1932320739,node,supermarket,Cold Storage,1.3037215,103.7657354
+1932320742,node,supermarket,Cold Storage Fresh,1.3070599,103.7879849
+1932320745,node,supermarket,Cold Storage,1.3168348,103.8434897
+1932320757,node,supermarket,Grindelwald,1.3220913,103.7702616
+1932320762,node,supermarket,Cold Storage,1.3501335,103.8732256
+1932320763,node,supermarket,Cold Storage,1.3539198,103.9452276
+1932320767,node,supermarket,Cold Storage,1.3593977,103.8849418
+1932320773,node,supermarket,Cold Storage Fresh,1.2934639,103.8531044
+1932320776,node,supermarket,CS Fresh Gold,1.3035875,103.8359057
+1932320788,node,supermarket,Cold Storage Fresh Gold,1.3048473,103.8242276
+1932320789,node,supermarket,CS Fresh,1.3049612,103.9052732
+1932320790,node,supermarket,ThreeSixty,1.3041529,103.8316657
+1939009945,node,supermarket,Cold Storage,1.3235953,103.7675432
+1948666505,node,attraction,Dragon's Teeth Gate,1.2629688,103.8053462
+1953018875,node,convenience_store,7-Eleven,1.305747,103.829954
+1987968430,node,supermarket,Sheng Siong,1.3381024,103.9234133
+2014918590,node,mrt_station,Woodlands Train Checkpoint,1.4450308,103.769993
+2031222790,node,convenience_store,Mini Market,1.427566,103.6309535
+2066554828,node,mrt_station,Bukit Panjang,1.3779175,103.7630947
+2099138266,node,convenience_store,7-Eleven,1.2897593,103.8379057
+2099138268,node,convenience_store,Rivergate Grocer,1.290507,103.8366608
+2112314806,node,supermarket,FairPrice,1.3151914,103.8495849
+2122187927,node,supermarket,Sheng Siong,1.3150492,103.7711263
+2122187931,node,supermarket,FairPrice,1.3144431,103.7711879
+2132500350,node,supermarket,Giant,1.3201477,103.8873042
+2142181977,node,convenience_store,7-Eleven,1.2969497,103.8557045
+2142182411,node,convenience_store,7-Eleven,1.2977694,103.8553052
+2148654166,node,convenience_store,Pasir Ris Minimart,1.3747713,103.9363808
+2148975844,node,supermarket,FairPrice,1.3796884,103.9362379
+2163610013,node,convenience_store,7-Eleven,1.4403443,103.8008888
+2163614820,node,supermarket,Giant,1.4403979,103.8005616
+2292008861,node,attraction,Machine Gun Post,1.2626929,103.8049811
+2292011571,node,attraction,The Fourth Gun Position,1.2652209,103.8038744
+2292012664,node,attraction,Gun Emplacement IV,1.2656483,103.8034502
+2292014664,node,attraction,The Tunnel,1.2667462,103.8029917
+2372901159,node,convenience_store,Cheers,1.3035244,103.773937
+2383936392,node,supermarket,Econ Minimart,1.3237921,103.9107829
+2383936399,node,supermarket,FairPrice,1.3236799,103.9108467
+2385056505,node,convenience_store,Kashifa Mini Mart,1.4712663,103.7649564
+2402480209,node,supermarket,FairPrice,1.2855811,103.8451805
+2402536813,node,supermarket,Daiso,1.3114628,103.8568212
+2402539701,node,supermarket,FairPrice,1.3115258,103.8563897
+2402541465,node,supermarket,Cold Storage,1.320133,103.843935
+2420993453,node,supermarket,Giant,1.4456477,103.7979298
+2420993464,node,convenience_store,7-Eleven,1.4403061,103.801276
+2420993465,node,supermarket,PRIME,1.4401493,103.8016636
+2421003726,node,supermarket,PRIME,1.4458917,103.7978443
+2421003727,node,supermarket,NTUC Fairprice,1.4385636,103.7952187
+2421014788,node,supermarket,NTUC Fairprice,1.430908,103.7907695
+2421023936,node,supermarket,Fortune Supermarket,1.448068,103.801034
+2421023937,node,supermarket,Giant,1.4425618,103.7904903
+2421026645,node,supermarket,NTUC Fairprice,1.4325561,103.7744928
+2421030315,node,supermarket,FairPrice,1.4289998,103.8350138
+2421030319,node,convenience_store,7-Eleven,1.4294302,103.8356293
+2421030320,node,supermarket,Cold Storage,1.4292976,103.8357691
+2440006258,node,mrt_station,Choa Chu Kang,1.3853167,103.744325
+2491314422,node,convenience_store,Cheers,1.2986827,103.7749321
+2491833040,node,convenience_store,7-Eleven,1.3097564,103.7685356
+2491836569,node,supermarket,Sheng Siong,1.310071,103.7687703
+2505169520,node,supermarket,FairPrice,1.3571748,103.8438434
+2511049756,node,attraction,Chinatown,1.2799695,103.8436879
+2523263772,node,convenience_store,7-Eleven,1.3199937,103.9445768
+2572794689,node,convenience_store,Unnamed,1.2871703,103.8394515
+2598989929,node,convenience_store,7-Eleven,1.3139628,103.9889405
+2618494441,node,supermarket,FairPrice Xtra,1.3331979,103.7428255
+2621988257,node,convenience_store,Nafisa Minimart,1.3417501,103.6885777
+2660560575,node,convenience_store,7-Eleven,1.2561745,103.8211279
+2725342982,node,convenience_store,7-Eleven,1.3270991,103.9459575
+2728135176,node,supermarket,Amman Household Supplies,1.3414308,103.692147
+2767277546,node,supermarket,FairPrice,1.3269686,103.8464206
+2874561566,node,supermarket,FairPrice Finest,1.3036947,103.9029454
+2874563650,node,supermarket,Fairprice Xpress,1.3082402,103.907885
+2921818554,node,supermarket,Sheng Siong,1.3014833,103.7985027
+2922013263,node,supermarket,FairPrice,1.2847507,103.8293553
+2957207984,node,mrt_station,Eunos,1.3198016,103.9028891
+2990751456,node,convenience_store,Lim's Provisions,1.3777984,103.8963021
+3039490535,node,supermarket,Sheng Siong,1.4315023,103.7737451
+3068338527,node,convenience_store,7-Eleven,1.3013753,103.852723
+3068359614,node,convenience_store,7-Eleven,1.3155475,103.8508454
+3068443602,node,convenience_store,Cheers,1.2769745,103.8437294
+3088852681,node,convenience_store,Shell Select,1.3999265,103.8178415
+3094254815,node,convenience_store,7-Eleven,1.3110419,103.7952716
+3105751936,node,supermarket,FairPrice,1.3652321,103.8650384
+3105759121,node,convenience_store,7-Eleven,1.3646143,103.8660598
+3133247377,node,attraction,Little Big Club,1.4167068,103.6569956
+3186129725,node,convenience_store,7-Eleven,1.3315252,103.947838
+3207120155,node,supermarket,FairPrice,1.331762,103.8505926
+3210441961,node,supermarket,Cold Storage,1.3098863,103.902122
+3231570277,node,convenience_store,Cheers,1.3647098,103.8902848
+3273173463,node,convenience_store,7-Eleven,1.3127092,103.8807011
+3276199927,node,convenience_store,7-Eleven,1.3155119,103.883199
+3276206037,node,convenience_store,7-Eleven,1.3791325,103.955461
+3300494742,node,supermarket,FairPrice,1.3970146,103.7472724
+3300494746,node,supermarket,Sheng Siong,1.3782839,103.754076
+3305306962,node,supermarket,Prime,1.3807961,103.7518581
+3315764761,node,supermarket,FairPrice,1.3800132,103.7532539
+3315835661,node,supermarket,Prime,1.3778535,103.744165
+3337006820,node,supermarket,FairPrice,1.3088289,103.8619207
+3339872343,node,convenience_store,First Price,1.3415878,103.6917612
+3345258991,node,convenience_store,7-Eleven,1.2748915,103.8000162
+3370310576,node,supermarket,Giant,1.3321583,103.8573011
+3421585249,node,convenience_store,Huangs,1.3438189,103.6936173
+3446723001,node,convenience_store,buzz,1.2925999,103.7685149
+3446723011,node,convenience_store,7-Eleven,1.2925966,103.7683661
+3451431703,node,convenience_store,7-Eleven,1.2965738,103.8543736
+3460831442,node,convenience_store,7-Eleven,1.2870119,103.8481915
+3573448897,node,convenience_store,7-Eleven,1.3034544,103.851324
+3621214613,node,supermarket,Cold Storage,1.3075324,103.8289836
+3633792252,node,supermarket,FairPrice Xtra @ Sports Hub,1.3041749,103.8728359
+3653443292,node,supermarket,Bes Price Minimart,1.312588,103.9000383
+3653443309,node,supermarket,Gateway Minimart & Trading,1.3146529,103.8985494
+3653443366,node,supermarket,Al Barakah,1.3151015,103.8982503
+3653443369,node,convenience_store,7-Eleven,1.3118828,103.9005456
+3653443370,node,supermarket,81 Wholesalers & Trading,1.3142952,103.8988241
+3664255261,node,supermarket,I-Tec,1.3095028,103.8574489
+3707462414,node,convenience_store,7-Eleven,1.3502318,103.8689864
+3758967886,node,supermarket,Koryo Mart,1.2804239,103.8473639
+3759024654,node,convenience_store,7-Eleven,1.2796702,103.8475518
+3759044165,node,convenience_store,7-Eleven,1.2821667,103.8458997
+3759094225,node,convenience_store,7-Eleven,1.2811559,103.8451247
+3759786770,node,supermarket,Tanjong Hwaro,1.2782263,103.8438656
+3759845204,node,convenience_store,7-Eleven,1.2802562,103.8414987
+3759861924,node,convenience_store,7-Eleven,1.2754212,103.8441447
+3759869445,node,convenience_store,7-Eleven,1.2788217,103.8433906
+3783474014,node,supermarket,FairPrice,1.3049616,103.7814866
+3785776705,node,supermarket,Giant,1.3102679,103.7880372
+3786385057,node,convenience_store,Cheers,1.307192,103.7903982
+3788629481,node,supermarket,FairPrice,1.3328116,103.8472498
+3792976723,node,convenience_store,7-Eleven,1.3114743,103.7884805
+3792981701,node,supermarket,Sheng Siong,1.3080768,103.7858814
+3815322766,node,convenience_store,7-Eleven,1.2975015,103.8005442
+3876294301,node,supermarket,Cold Storage,1.3128367,103.9235157
+3891550918,node,convenience_store,Cheers,1.354283,103.9884402
+3891550935,node,supermarket,NTUC FairPrice Finest,1.3561808,103.9863723
+3895041270,node,convenience_store,Cheers,1.2764424,103.8357617
+3914777293,node,supermarket,Cold Storage,1.319605,103.8271903
+3914777294,node,supermarket,CS Fresh,1.3227092,103.8144067
+3914777298,node,supermarket,FairPrice,1.3242903,103.9238735
+3922463595,node,supermarket,Prime Supermarket,1.3481032,103.6855222
+3922463596,node,convenience_store,7-Eleven,1.3481139,103.6853331
+3922463598,node,convenience_store,Cheers,1.3428422,103.6821772
+3922463601,node,supermarket,Prime Supermarket,1.3468178,103.6809884
+3923016226,node,convenience_store,7-Eleven,1.3771841,103.7729834
+3923016228,node,supermarket,NTUC Pasar,1.3777363,103.7726306
+3923016234,node,supermarket,Giant,1.3786855,103.7728973
+3923016251,node,supermarket,Sheng Siong,1.3879115,103.7699226
+3923016253,node,convenience_store,7-Eleven,1.38399,103.7705042
+3924980572,node,supermarket,Cold Storage,1.3017518,103.7695285
+3931806105,node,convenience_store,7-Eleven,1.3847337,103.7447461
+3931806106,node,convenience_store,Cheers,1.3855644,103.744521
+3961906595,node,supermarket,FairPrice,1.3142787,103.8887345
+3990642132,node,convenience_store,7-Eleven,1.2923388,103.8407982
+3990644923,node,supermarket,Cold Storage,1.2920393,103.8425504
+4005133089,node,supermarket,Fairprice Finest,1.4069699,103.9016244
+4008733889,node,attraction,Haw Par Beach Villa,1.4103963,103.9222681
+4022006367,node,convenience_store,Unnamed,1.3519797,103.7539236
+4047291320,node,convenience_store,AJI Minimart,1.3437753,103.6897166
+4047291321,node,convenience_store,JS Minimart,1.3433699,103.6908384
+4047297298,node,convenience_store,7-Eleven,1.3414478,103.6908387
+4087248494,node,attraction,Kampung Sungai Melayu,1.4521282,103.6928728
+4100868491,node,convenience_store,Convenience Store,1.1876992,104.0947666
+4175758797,node,supermarket,TL98 International Provision Shop,1.4313522,103.8290218
+4196323795,node,convenience_store,7-Eleven,1.3359479,103.6958686
+4202404652,node,convenience_store,point,1.4239874,103.6166241
+4221544290,node,supermarket,FairPrice,1.3665818,103.8415821
+4226469389,node,attraction,Berjaya Waterfront Food Truck Park,1.4691195,103.7819605
+4226806006,node,supermarket,FairPrice,1.3245854,103.9414492
+4232943395,node,attraction,Pocket Greens Urban Farm & Barn,1.3718548,103.7770068
+4233370769,node,mall,Bencoolen Underground Mall,1.2981814,103.8496472
+4233370770,node,mall,Bencoolen Underground Mall,1.2992237,103.8507551
+4234717089,node,attraction,CHSL CH 0,1.3949731,103.6202919
+4241644468,node,convenience_store,7-Eleven,1.3577895,103.7606314
+4260913020,node,supermarket,Sheng Siong,1.3529769,103.7437581
+4260914642,node,supermarket,Sheng Siong,1.3555088,103.7392341
+4264443065,node,convenience_store,Unnamed,1.4144092,103.6603503
+4264495207,node,convenience_store,Point,1.4164988,103.6576045
+4264495208,node,convenience_store,7-Eleven,1.288225,103.8489139
+4264495712,node,convenience_store,7-Eleven,1.2920518,103.850905
+4281193391,node,convenience_store,Unnamed,1.3582276,103.9861175
+4281230791,node,convenience_store,7-Eleven,1.3118391,103.8718124
+4289598390,node,attraction,Arab street shops,1.3004402,103.8598028
+4300422591,node,attraction,Chek Jawa Wetlands,1.408688,103.9907677
+4304684647,node,supermarket,Sheng Siong,1.3324563,103.9255968
+4309387623,node,attraction,bunker,1.4568311,103.826719
+4309401506,node,attraction,bunker,1.4582,103.8228486
+4309430621,node,attraction,bunker,1.4547873,103.8266131
+4314443191,node,attraction,Primary Rainforest Urban Walk,1.3123211,103.8158633
+4325259691,node,supermarket,FairPrice,1.2731352,103.8090769
+4329578533,node,supermarket,FairPrice,1.3076824,103.884841
+4330496126,node,supermarket,Ellyza Frozen Food,1.4405928,103.8018411
+4363256792,node,convenience_store,my news,1.4176503,103.6565395
+4368147027,node,convenience_store,Cheers,1.311553,103.7949131
+4368418590,node,convenience_store,7-Eleven,1.2750389,103.8429425
+4369793864,node,convenience_store,7-Eleven,1.3115958,103.7783354
+4376751832,node,convenience_store,7-Eleven,1.4698154,103.7811813
+4376756991,node,convenience_store,Unnamed,1.4715959,103.784006
+4395915889,node,convenience_store,myNEWS.com,1.4285474,103.6335513
+4396993290,node,supermarket,kapitan,1.4277109,103.6327145
+4397009989,node,convenience_store,point,1.4276887,103.6325921
+4400879034,node,convenience_store,Grab & GO,1.3114964,103.8150692
+4400909653,node,convenience_store,Mandai Mart,1.4046763,103.7909244
+4400965576,node,attraction,African White Lion,1.4024246,103.7882941
+4400965580,node,attraction,Asian Wild Dog,1.4023575,103.7863757
+4400965584,node,attraction,Bearded Pig,1.4022087,103.7861852
+4400965586,node,attraction,Buffalo,1.4007634,103.7877543
+4400965589,node,attraction,Chawang the Elephant,1.4022396,103.784527
+4400965593,node,attraction,Clouded Leopard,1.4008975,103.7896721
+4400965594,node,attraction,Elephant,1.402312,103.7852042
+4400965608,node,attraction,Indian Wolves,1.4030038,103.7838645
+4400965610,node,attraction,Malayan Tapir,1.4030493,103.7867311
+4400965611,node,convenience_store,Mandai Mart,1.4039572,103.7889145
+4400965616,node,attraction,Nyala,1.4006334,103.7879153
+4400965617,node,attraction,Oryx,1.3996426,103.7891216
+4400965620,node,attraction,Possum,1.4030648,103.7878308
+4400965623,node,attraction,Sambar Deer,1.4018239,103.7841266
+4400965625,node,attraction,Sloth Bear,1.4001481,103.7889265
+4400965627,node,attraction,Slow Loris,1.4027477,103.7900275
+4400965629,node,attraction,Spiral Horned Antelope,1.4005677,103.7880567
+4400965632,node,attraction,Sugar Glider,1.4031083,103.7878844
+4400965633,node,attraction,Tawny Frogmouth Owl,1.4029448,103.7874829
+4400965635,node,attraction,Tiger,1.4036138,103.7861443
+4400965638,node,attraction,Wallaby,1.4027839,103.7880802
+4400965639,node,attraction,White Lipped Python,1.4028599,103.7875051
+4400965640,node,attraction,Zebra,1.3996413,103.788962
+4402052494,node,attraction,megazip adventure park,1.2568794,103.814305
+4411442726,node,convenience_store,myNEWS.com,1.4566959,103.7644207
+4411464690,node,convenience_store,7-Eleven,1.4599826,103.7645166
+4418526789,node,supermarket,Unnamed,1.3121463,103.7596285
+4421872093,node,attraction,Unnamed,1.3470603,103.8843023
+4425556291,node,convenience_store,7-Eleven,1.322278,103.770644
+4433553573,node,supermarket,Ang Mo Supermarket,1.3362868,103.8480895
+4437725890,node,convenience_store,Top 100,1.1455833,104.009726
+4438555191,node,convenience_store,7-Eleven,1.4599017,103.7644831
+4438929090,node,convenience_store,Bsi mart,1.4639345,103.7662156
+4443157289,node,attraction,Unnamed,1.3287467,103.7947386
+4443190990,node,attraction,Unnamed,1.3177465,103.7904578
+4443927247,node,supermarket,FairPrice,1.3244802,103.9288247
+4448838790,node,supermarket,Sheng Siong,1.3149206,103.8945139
+4463223394,node,supermarket,Cold Storage,1.2470189,103.8397133
+4476978890,node,attraction,Inul vizta,1.1450339,104.0128263
+4478220189,node,attraction,Unnamed,1.4529154,103.7947769
+4484650794,node,supermarket,Sheng Siong,1.312653,103.8786231
+4484869393,node,attraction,Tortoise Shelter,1.2236891,103.8608616
+4486219776,node,convenience_store,7-Eleven,1.2996415,103.8537643
+4489711691,node,attraction,Unnamed,1.3203669,103.7920724
+4493528219,node,convenience_store,7-Eleven,1.3003539,103.855331
+4493700489,node,supermarket,Tuas South Supermarket,1.2951161,103.6268595
+4513022389,node,attraction,Unnamed,1.3320624,103.799213
+4513107192,node,attraction,Unnamed,1.302519,103.804066
+4523600291,node,attraction,Paddle Lodge Pandan Reservoir,1.3200331,103.7366181
+4537990591,node,attraction,Certis Cisco west hub,1.3305704,103.7385721
+4538914740,node,mrt_station,Khatib,1.4173597,103.8330179
+4544309333,node,convenience_store,Shell Select,1.3502661,103.7384701
+4544316904,node,convenience_store,7-Eleven,1.3508971,103.7559191
+4547834505,node,convenience_store,7-Eleven,1.3713906,103.8290006
+4552437537,node,supermarket,FairPrice,1.3785209,103.7639776
+4560997436,node,supermarket,Cold Storage,1.294999,103.8591405
+4560997439,node,convenience_store,7-Eleven,1.2912995,103.8584203
+4560997469,node,convenience_store,Guardian,1.2928333,103.8532762
+4561526157,node,convenience_store,7-Eleven,1.3591184,103.7520773
+4564589708,node,attraction,Condom Lorry,1.3767507,103.7837818
+4564608589,node,attraction,Former Thai Temple,1.4168486,103.9521052
+4564614398,node,attraction,Chancery Lane Pill Box,1.3221485,103.8385138
+4568833161,node,attraction,Imbiah Bunkers,1.2569011,103.8147474
+4568867548,node,convenience_store,7-Eleven,1.2572896,103.8112414
+4569935693,node,attraction,Night Market,1.1472326,104.0060926
+4569950289,node,attraction,Bar Street,1.1490715,104.00831
+4570316415,node,supermarket,Giant Express,1.3421799,103.7761711
+4572385393,node,convenience_store,7-Eleven,1.3051967,103.8532665
+4579396267,node,supermarket,Sheng Siong,1.2869661,103.8416702
+4583496401,node,convenience_store,7-Eleven,1.3310896,103.7951477
+4583496402,node,convenience_store,7-Eleven,1.339971,103.7738201
+4583783461,node,convenience_store,7-Eleven,1.3502177,103.7242131
+4583783603,node,supermarket,Giant,1.3497894,103.725451
+4584797595,node,convenience_store,Hao Mart,1.450132,103.8228882
+4599847295,node,supermarket,Warehouse Club,1.3272092,103.6786571
+4607932589,node,supermarket,FairPrice,1.315391,103.8985788
+4620458492,node,convenience_store,7-Eleven,1.2846083,103.8467508
+4620793887,node,convenience_store,7-Eleven,1.298358,103.8560343
+4623569969,node,convenience_store,Midtown Mart,1.290899,103.8574196
+4631030455,node,supermarket,Giant,1.3809089,103.8792312
+4631688312,node,convenience_store,Cheers,1.3033085,103.7918559
+4631818434,node,supermarket,Sheng Siong,1.3292654,103.88833
+4633972480,node,convenience_store,Supreme Mini Mart,1.3034883,103.7924467
+4634008349,node,convenience_store,7-Eleven,1.3060517,103.7909615
+4634033150,node,convenience_store,7-Eleven,1.3291,103.886845
+4634033151,node,convenience_store,Chop Seng Cheong,1.3291771,103.8867176
+4634039691,node,convenience_store,JMart,1.3288922,103.8871244
+4639442703,node,supermarket,FairPrice,1.3850202,103.7604035
+4643985891,node,supermarket,FairPrice,1.371469,103.8470492
+4653464295,node,convenience_store,7-Eleven,1.3786827,103.9417737
+4664735169,node,supermarket,FairPrice,1.3602084,103.9534624
+4679533701,node,supermarket,FairPrice,1.3657245,103.7493073
+4679548600,node,supermarket,FairPrice,1.348632,103.7492808
+4679562389,node,supermarket,Cold Storage,1.3501202,103.7494149
+4682734911,node,convenience_store,7-Eleven,1.3082167,103.9099564
+4682788852,node,mall,Katong V,1.3031334,103.9032312
+4683756263,node,convenience_store,Shell Select,1.3126508,103.9266349
+4683779083,node,convenience_store,Cheers,1.3109952,103.9204278
+4684122140,node,convenience_store,7-Eleven,1.3120298,103.9224284
+4684283561,node,convenience_store,FairPrice,1.3283589,103.9396233
+4684914891,node,convenience_store,7-Eleven,1.3065884,103.8286065
+4684915189,node,convenience_store,7-Eleven,1.3048499,103.823337
+4685856383,node,convenience_store,7-Eleven,1.307674,103.8849268
+4687674204,node,convenience_store,Good Price Centre,1.3330593,103.8788019
+4689544985,node,convenience_store,Cheers,1.3610339,103.874011
+4689544986,node,convenience_store,7-Eleven,1.3606591,103.8739181
+4689610591,node,convenience_store,7-Eleven,1.3147383,103.8909841
+4689643589,node,convenience_store,HAO mart,1.3128031,103.8813005
+4689653664,node,convenience_store,B&S MiniMart Private LTD,1.31251,103.8795631
+4689653678,node,convenience_store,7-Eleven,1.3121626,103.8772837
+4689653682,node,supermarket,208e Geylang,1.3119052,103.8765016
+4691049657,node,supermarket,Sheng Siong,1.3757418,103.8718519
+4692203100,node,supermarket,CS Fresh,1.3636865,103.7643794
+4696039689,node,convenience_store,7-Eleven,1.3212974,103.9025998
+4700578110,node,convenience_store,7-Eleven,1.3850974,103.766586
+4700578113,node,supermarket,Giant,1.3854121,103.7662073
+4703971117,node,convenience_store,7-Eleven,1.3543007,103.8788923
+4703971118,node,convenience_store,7-Eleven,1.3541471,103.8787196
+4704906889,node,convenience_store,7-Eleven,1.2847087,103.8329529
+4712233183,node,convenience_store,Cheers,1.2947522,103.816423
+4715369286,node,supermarket,German Market Place,1.3243853,103.8094584
+4715487769,node,convenience_store,JC Super Market,1.3321284,103.8831091
+4715801593,node,convenience_store,7-Eleven,1.3225036,103.8637244
+4722882714,node,convenience_store,Fair Price,1.3624863,103.8682345
+4723049347,node,convenience_store,Wall's,1.2821571,103.8450963
+4723314847,node,convenience_store,Cheers,1.2826835,103.8456465
+4723314866,node,convenience_store,7-Eleven,1.2839565,103.8479186
+4724301486,node,convenience_store,7-Eleven,1.2859771,103.8491466
+4724336425,node,convenience_store,Unnamed,1.2827764,103.8487351
+4724556537,node,convenience_store,7-Eleven,1.4307556,103.8329218
+4726775777,node,convenience_store,Cheers,1.280686,103.8501924
+4726776649,node,convenience_store,7-Eleven,1.353351,103.8346521
+4726861610,node,convenience_store,Shell Select,1.3481748,103.83831
+4727957666,node,convenience_store,Cheers,1.3579508,103.8283545
+4732557583,node,convenience_store,I-Tec Supermart,1.2942554,103.8421912
+4732627246,node,convenience_store,7-Eleven,1.3004629,103.859304
+4733077210,node,convenience_store,I-Tec Supermart,1.3017634,103.8584284
+4734749601,node,convenience_store,7-Eleven,1.3038295,103.8611162
+4735055776,node,supermarket,Fortune Supermarket,1.4556955,103.8145673
+4736636896,node,supermarket,Sheng Siong,1.3079553,103.8572122
+4736735165,node,convenience_store,7-Eleven,1.4441894,103.7901405
+4737129408,node,convenience_store,Goutham Minimart,1.3088269,103.856316
+4738171712,node,convenience_store,7-Eleven,1.2951737,103.8294773
+4738681925,node,convenience_store,Shell Select,1.3723686,103.7634365
+4738747599,node,convenience_store,7-Eleven,1.385475,103.7464877
+4738763664,node,convenience_store,Cheers,1.2844459,103.8444848
+4738769924,node,supermarket,Cold Storage,1.2922121,103.839246
+4739815315,node,convenience_store,Cheers,1.2838319,103.8433875
+4745267767,node,convenience_store,7-Eleven,1.3145504,103.8572888
+4745592068,node,supermarket,Mannai Supermarket,1.3044903,103.8545898
+4745613614,node,convenience_store,7-Eleven,1.2851032,103.8293522
+4745692777,node,convenience_store,Phoon Huat,1.3014536,103.8523516
+4745739912,node,convenience_store,Cheers,1.3068568,103.8024214
+4746094650,node,convenience_store,Unnamed,1.3697211,104.0888274
+4746147039,node,attraction,Talbot Hill,1.4578442,103.7899138
+4746595973,node,supermarket,Giant,1.2826694,103.8257856
+4746595983,node,supermarket,FairPrice,1.2898277,103.8267592
+4746819482,node,attraction,Ruins,1.3201875,103.782535
+4746819559,node,attraction,Ruins,1.3204468,103.7822902
+4747069527,node,attraction,Former Buona Vista Battery No. 2 Gun,1.3187031,103.7753593
+4747135557,node,attraction,Seah Im Air Raid Shelter,1.2688747,103.8173732
+4747611641,node,convenience_store,7-Eleven,1.3008611,103.8408921
+4747914896,node,convenience_store,7-Eleven,1.3120241,103.7600319
+4749012577,node,convenience_store,7-Eleven,1.3240694,103.8517904
+4749080340,node,convenience_store,7-Eleven,1.3067191,103.8291046
+4749101769,node,convenience_store,Cheers,1.3267085,103.8427325
+4749128061,node,convenience_store,Cheers,1.3221686,103.8526875
+4749128063,node,convenience_store,Fei Qian Minimart,1.3225099,103.852619
+4749144147,node,convenience_store,7-Eleven,1.3246754,103.8533577
+4749144152,node,convenience_store,Annai Super Mart,1.3242475,103.8530205
+4749181585,node,convenience_store,I-Tec Supermart,1.3249033,103.8504942
+4749738867,node,convenience_store,7-Eleven,1.350428,103.7190502
+4753458007,node,convenience_store,Choices,1.342261,103.7372633
+4756206327,node,convenience_store,7-Eleven,1.3567245,103.9902702
+4772535860,node,attraction,Learning Forest,1.3091744,103.8142292
+4788161321,node,supermarket,FairPrice,1.3321123,103.9382333
+4808001109,node,supermarket,FairPrice,1.3536024,103.9405041
+4820521126,node,convenience_store,Unnamed,1.3787982,103.6346235
+4820827921,node,supermarket,FairPrice,1.3091415,103.7928136
+4823433213,node,convenience_store,Octobox,1.3473643,103.6807733
+4828293682,node,supermarket,FairPrice,1.3345284,103.7201308
+4836072446,node,convenience_store,7-Eleven,1.3915801,103.8951149
+4838324641,node,attraction,Ruins,1.3603133,103.8233783
+4867364321,node,supermarket,Telok Blangah Mall,1.2736798,103.8089509
+4867399321,node,attraction,Unnamed,1.4173121,103.6587226
+4871552123,node,convenience_store,Shopping Bugis,1.3001656,103.8544698
+4871555321,node,convenience_store,Chocolate Gallery,1.2717482,103.8426259
+4883470842,node,convenience_store,7-Eleven,1.3540632,103.9598239
+4883470859,node,convenience_store,Hao Mart,1.3518919,103.9611685
+4883490027,node,supermarket,Tampines Mart,1.3543718,103.9600249
+4907674520,node,attraction,Obelisk,1.2628295,103.8049521
+4907683908,node,convenience_store,7-Eleven,1.2739777,103.801674
+4907708671,node,attraction,Pillbox,1.2648422,103.8035416
+4933606425,node,convenience_store,Unnamed,1.2794213,103.8277394
+4937054117,node,convenience_store,7-Eleven,1.3006848,103.8383985
+4939484913,node,mrt_station,Choa Chu Kang,1.3847493,103.7445341
+4960772124,node,convenience_store,7-Eleven,1.3130273,103.8600133
+4961680421,node,attraction,Ruins,1.3607876,103.8221125
+4972121265,node,supermarket,Sheng Siong,1.4110086,103.9003954
+4972141472,node,supermarket,U Stars Supermarket,1.4054147,103.8968874
+4972141473,node,supermarket,Sheng Siong,1.403353,103.894994
+5012209347,node,convenience_store,Cheers,1.380029,103.8487786
+5015950543,node,convenience_store,Nanyang Guo Huo Convenience Sotre,1.3536124,103.6883584
+5018207223,node,attraction,Peranakan Terrace houses,1.3103725,103.902457
+5018345222,node,supermarket,FairPrice,1.4048623,103.9085261
+5022034423,node,convenience_store,Cheers,1.3693398,103.8498281
+5023770455,node,convenience_store,7-Eleven,1.302624,103.8579868
+5026572225,node,attraction,Street of Peranakan shophouses,1.3141955,103.8989857
+5055589372,node,convenience_store,7-Eleven,1.3114473,103.8599536
+5055589394,node,convenience_store,Everyday mart,1.3114708,103.8599756
+5070729049,node,convenience_store,Rong Xing Mini Mart,1.2882332,103.8151981
+5096687750,node,convenience_store,7-Eleven,1.4051692,103.8975981
+5104555877,node,convenience_store,Cheers,1.4369073,103.7859705
+5140584427,node,attraction,Arab Street,1.3021612,103.8583262
+5176475025,node,convenience_store,CU,1.4390626,103.6205039
+5213704523,node,convenience_store,Eco Mart,1.289742,103.8379718
+5224918701,node,supermarket,Prime,1.3232119,103.9240875
+5232180421,node,supermarket,Trading Store,1.3174181,103.6521903
+5251515144,node,convenience_store,7-Eleven,1.2894281,103.8171902
+5264930496,node,convenience_store,Mini Mart,1.3731238,103.8880533
+5264942524,node,convenience_store,7-Eleven,1.3748828,103.8869975
+5264942528,node,supermarket,FairPrice,1.3744432,103.8856498
+5265296286,node,convenience_store,Cheers,1.3715821,103.8936466
+5265296295,node,supermarket,FairPrice,1.3718302,103.8941221
+5265451728,node,convenience_store,7-Eleven,1.3589276,103.8871356
+5273189422,node,attraction,Ruins,1.3599759,103.8211534
+5283108421,node,attraction,Lithe House,1.3049244,103.8527464
+5287324036,node,supermarket,FairPrice,1.3863502,103.8931925
+5314393341,node,supermarket,Mydin,1.4236907,103.6172761
+5328873748,node,supermarket,Sheng Siong,1.4336189,103.7799353
+5340379394,node,convenience_store,7-Eleven,1.3450468,103.7034605
+5344372224,node,attraction,Peranakan Terrace Houses,1.3137524,103.90286
+5351762024,node,supermarket,Jaya Grocer,1.3912091,103.6390339
+5351982721,node,convenience_store,7-Eleven,1.3910989,103.6393002
+5370142874,node,convenience_store,7-Eleven,1.3371458,103.7018463
+5377186923,node,convenience_store,MiniMart,1.3789932,103.8840744
+5403432642,node,convenience_store,7-Eleven,1.2941772,103.8422269
+5410071921,node,convenience_store,7-Eleven,1.3051094,103.8533778
+5414528606,node,supermarket,Baltic Supermart,1.3077979,103.9074636
+5414652968,node,convenience_store,7-Eleven,1.3073575,103.9068179
+5423452694,node,attraction,Binturong,1.403056,103.7893234
+5423452695,node,attraction,Himilayan Tahr,1.4032652,103.7890485
+5423452696,node,attraction,Mouse Deer,1.4034435,103.7892255
+5423452697,node,attraction,Fishing Cat,1.4031418,103.7895259
+5423452698,node,attraction,Fishing Cat,1.4030279,103.7896587
+5423452699,node,attraction,Pangolin,1.4028938,103.7896332
+5423452700,node,attraction,Mouse Deer,1.4028563,103.7898237
+5423452701,node,attraction,Civit,1.4027316,103.7897767
+5423452702,node,attraction,Flying Fox,1.4025399,103.7897579
+5423452703,node,attraction,Indian Gharial,1.4026123,103.7899336
+5423452704,node,attraction,Barking Deer,1.4028683,103.7899886
+5423452705,node,attraction,Asian Otter,1.4029957,103.7899148
+5423452706,node,attraction,Barasingha,1.4017649,103.7903842
+5423452707,node,attraction,Storks,1.4023334,103.7903695
+5423452708,node,attraction,Fruit Bat,1.4003223,103.790918
+5423452709,node,attraction,Spectral Tarsier,1.4005369,103.7907436
+5423452710,node,attraction,Civit,1.4006334,103.7909099
+5423452711,node,attraction,Porcupine,1.4007728,103.7906276
+5423452712,node,attraction,Leopard Cat,1.4006374,103.7904446
+5423452713,node,attraction,Hog Badger,1.4007071,103.7901998
+5423452714,node,attraction,Giant Flying Squirrel,1.4007406,103.7900617
+5423452715,node,attraction,Asian Otter,1.4008439,103.790228
+5423452716,node,attraction,Golden Cat,1.4010731,103.7902099
+5423452717,node,attraction,Slow Loris,1.4013601,103.7905492
+5423452718,node,attraction,Sumatran Ourang Utan,1.4034462,103.7943197
+5423452719,node,attraction,Malayan Sun Bear,1.4033081,103.7944444
+5423452720,node,attraction,Spiny Hill Turtle,1.4030735,103.7945417
+5423453421,node,attraction,Komodo Dragon,1.4031137,103.7948005
+5423453422,node,attraction,Monitor,1.4030172,103.7950191
+5423453423,node,attraction,Giant Tortoise,1.402875,103.7946355
+5423453424,node,attraction,Horned Lizard,1.4028482,103.7948367
+5423453425,node,attraction,Snakes,1.4025211,103.7947643
+5442605722,node,supermarket,NTUC Fairprice,1.4399794,103.8005133
+5450272625,node,attraction,Archery Range Indoor,1.3327551,103.8670265
+5461729421,node,supermarket,Isetan,1.305645,103.831586
+5462566821,node,attraction,Even here somewhere,1.4565802,103.7625554
+5464564121,node,convenience_store,Unnamed,1.46246,103.762263
+5467205523,node,convenience_store,point,1.4311889,103.6132478
+5470273192,node,convenience_store,Cheers,1.3769862,103.7626473
+5470273947,node,convenience_store,7-Eleven,1.3754527,103.7653854
+5474435682,node,convenience_store,7-Eleven,1.3148534,103.7645946
+5479301279,node,convenience_store,7-Eleven,1.2886333,103.8158611
+5484076764,node,supermarket,Shine Korea Supermarket,1.3018337,103.8525786
+5486212721,node,attraction,Henderson Waves,1.2760507,103.8154142
+5504922844,node,convenience_store,7-Eleven,1.2869393,103.8538279
+5515378634,node,supermarket,U Stars Supermarket,1.3964212,103.8890273
+5522289060,node,convenience_store,Shell Shop,1.3476219,103.7648306
+5549593967,node,attraction,Bambusetum,1.3112897,103.8128795
+5573462428,node,supermarket,99 Speedmart,1.4697772,103.7369931
+5573563621,node,convenience_store,7-Eleven,1.4631662,103.7643681
+5573564221,node,attraction,little india,1.4589737,103.7638968
+5575058325,node,convenience_store,Captain Grocer's,1.4643437,103.7623795
+5597834579,node,supermarket,FairPrice,1.3633878,103.8354915
+5599705326,node,convenience_store,pasar mini mohd ismail,1.4693974,103.6208585
+5599712823,node,convenience_store,kedai runcit agc,1.4688957,103.6240808
+5599724622,node,convenience_store,Unnamed,1.4700308,103.6209837
+5599757723,node,convenience_store,pasar mini madeena,1.4691067,103.6179452
+5599758124,node,convenience_store,Unnamed,1.4691079,103.6181301
+5600392521,node,convenience_store,7-Eleven,1.4382605,103.6199995
+5622480704,node,convenience_store,Cheers,1.2673683,103.8156218
+5629901679,node,mrt_station,Bukit Batok West,1.3455305,103.7397329
+5629901708,node,mrt_station,Tengah Plantation,1.3573609,103.733406
+5629901713,node,mrt_station,Tengah Park,1.3522936,103.7368054
+5629903684,node,mrt_station,Tawas,1.3506557,103.6918893
+5629903700,node,mrt_station,Gek Poh,1.3483266,103.6980778
+5629903715,node,mrt_station,Pandan Reservoir,1.320439,103.7448028
+5629903933,node,mrt_station,Peng Kang Hill,1.3428682,103.6785915
+5629903986,node,mrt_station,Nanyang Crescent,1.3485428,103.6811253
+5629903991,node,mrt_station,Nanyang Gateway,1.3537812,103.6866773
+5629904028,node,mrt_station,Jurong Town Hall,1.3264148,103.7452272
+5629904070,node,mrt_station,Toh Guan,1.3400465,103.7426012
+5629904186,node,mrt_station,Jurong Pier,1.313022,103.7104354
+5629904201,node,mrt_station,Jurong Hill,1.318581,103.7102098
+5629904220,node,mrt_station,Tukang,1.3253215,103.7092754
+5629904413,node,mrt_station,Enterprise,1.3328021,103.7085422
+5629904462,node,mrt_station,Jurong West,1.3491904,103.7082891
+5629904470,node,mrt_station,Corporation,1.3529781,103.7138109
+5629904473,node,mrt_station,Tengah,1.3662254,103.7300925
+5629904474,node,mrt_station,Hong Kah,1.3581119,103.7261096
+5629904494,node,mrt_station,Choa Chu Kang West,1.379215,103.7399997
+5629904571,node,mrt_station,Bahar Junction,1.3458098,103.7023562
+5639427923,node,convenience_store,Qmart,1.2863878,103.8033436
+5646121929,node,supermarket,Ang Mo Supermarket,1.3687701,103.8346254
+5647751955,node,attraction,Light Show: Garden Rhapsody,1.2821068,103.8639782
+5668048040,node,supermarket,FairPrice,1.3477065,103.7573892
+5672381066,node,supermarket,Sheng Siong,1.3023596,103.7637976
+5686498121,node,supermarket,Giant (Express),1.346701,103.757482
+5686794044,node,supermarket,NTUC Fairprice,1.4290442,103.7811686
+5695662038,node,convenience_store,Mini Mart,1.195882,104.0978571
+5708459524,node,attraction,Fragrant Garden,1.3174422,103.8163834
+5708926389,node,attraction,Ruins,1.2782692,103.8037294
+5719651633,node,convenience_store,Cheers,1.2868052,103.8013735
+5754100521,node,attraction,Forest Walk,1.2799997,103.8030222
+5808536804,node,convenience_store,Cheers,1.3024698,103.8738206
+5808854454,node,convenience_store,Shine Korea,1.3019884,103.8764724
+5828043085,node,supermarket,U Stars Super Market,1.3778545,103.7494678
+5848402688,node,convenience_store,7-Eleven,1.2828542,103.850533
+5850184188,node,supermarket,Giant,1.3299687,103.9019594
+5850832705,node,convenience_store,7-Eleven,1.2933127,103.8595266
+5853018485,node,supermarket,U Stars Supermarket,1.3742952,103.7465004
+5867134472,node,convenience_store,Lit Heng Seng Minimart,1.3320923,103.9139143
+5867134477,node,convenience_store,Top Plus Supermarket,1.332067,103.9144393
+5870209593,node,convenience_store,Bee Kee Hong KongThiam Sim,1.3328982,103.9137964
+5870218280,node,supermarket,NTUC,1.3334291,103.914137
+5871245685,node,convenience_store,7-Eleven,1.2895584,103.855939
+5873790586,node,convenience_store,7-Eleven,1.3981942,103.747326
+5886868568,node,supermarket,Sheng Siong,1.3990861,103.8894388
+5892144290,node,convenience_store,Vaseegara Traders Pte Ltd,1.3331052,103.9144664
+5892423974,node,supermarket,U Stars Supermarket,1.3326569,103.9145443
+5892423978,node,convenience_store,Fook Ann Siang Medicine & Trading Co.,1.3325325,103.9141909
+5899408962,node,convenience_store,Chee Hoe Seng Minimart,1.3313109,103.9100487
+5899408963,node,convenience_store,7-Eleven,1.3313502,103.9096332
+5899995456,node,convenience_store,7-Eleven,1.3546862,103.8313372
+5909081287,node,supermarket,Little Farms,1.3107524,103.795202
+5909089085,node,supermarket,Little Farms,1.2930751,103.8267442
+5909089086,node,supermarket,Little Farms,1.3170084,103.8434398
+5909089185,node,supermarket,Little Farms,1.2768898,103.845801
+5924078228,node,convenience_store,7-Eleven,1.2857395,103.8267858
+5948891224,node,supermarket,Fair Price,1.4110973,103.8435897
+5951170501,node,convenience_store,Kuriya Market,1.3508557,103.8717903
+5974146592,node,supermarket,Sheng Siong,1.332508,103.8670646
+5974155596,node,supermarket,Ang Mo Supermarket,1.3322734,103.8684226
+5974207276,node,convenience_store,7-Eleven,1.3322504,103.8677915
+6008885785,node,attraction,Terminal 2 Orchid Garden,1.3540762,103.9887044
+6009344392,node,attraction,Poland's Bells of Happiness (Dar Pomorza),1.2716597,103.8189686
+6021713085,node,attraction,MacRitchie Reservoir Submerged Boardwalk,1.3413737,103.8315193
+6024473086,node,attraction,Proboscis Monkey,1.4020099,103.7958293
+6070535486,node,supermarket,U Stars Xpress,1.3175959,103.8524655
+6075719088,node,attraction,Forest Canopy Walk,1.2785287,103.8093385
+6082899987,node,supermarket,U Stars Mega Mart,1.3778764,103.7494081
+6082964185,node,attraction,Local market,1.3482625,103.7575012
+6084050885,node,attraction,Banyan Tree & Ruin,1.3066832,103.8663997
+6086607401,node,convenience_store,Lion Mart,1.3677806,103.9703627
+6094481138,node,supermarket,Milagros Batam,1.1465094,104.0123607
+6128474787,node,convenience_store,7-Eleven,1.2801114,103.8499881
+6139736334,node,supermarket,U Stars Supermarket,1.3899417,103.8928342
+6144079548,node,supermarket,FairPrice,1.2738786,103.8013013
+6150975793,node,convenience_store,Indomaret,1.144809,104.0119445
+6172305186,node,supermarket,ACE Fresh supermarket,1.3210368,103.9347053
+6176031885,node,supermarket,FairPrice,1.3698274,103.8731096
+6209861844,node,attraction,Stream,1.3558024,103.7575638
+6209912502,node,attraction,Log Bridge,1.386493,103.7892303
+6212980047,node,convenience_store,Phoon Huat,1.3710725,103.8946061
+6212980048,node,convenience_store,Xiang Xiang Vegetarian Food,1.3715839,103.8932571
+6258864486,node,supermarket,FairPrice,1.3773078,103.9035432
+6259556449,node,convenience_store,Hao Mart,1.2837098,103.8159294
+6259594708,node,convenience_store,Phoon Huat,1.283797,103.8174877
+6259606999,node,convenience_store,RedMan,1.3068507,103.7884761
+6259607340,node,convenience_store,RedMan,1.3524681,103.8732755
+6259611528,node,convenience_store,Phoon Huat,1.3679146,103.8514987
+6259640295,node,convenience_store,Phoon Huat,1.3140344,103.7625606
+6259649439,node,convenience_store,Phoon Huat,1.4314962,103.7743811
+6259652145,node,convenience_store,Phoon Huat,1.3433847,103.9536533
+6259666432,node,convenience_store,Phoon Huat,1.3165805,103.8809279
+6259668213,node,convenience_store,Phoon Huat,1.3412499,103.846986
+6259798710,node,convenience_store,7-Eleven,1.2985134,103.8391586
+6259820663,node,convenience_store,Cheers,1.3633294,103.888092
+6260001642,node,convenience_store,7-Eleven,1.3591664,103.9551593
+6260971088,node,attraction,Hidden underground Japanese era structure,1.3467942,103.8138053
+6294904054,node,supermarket,FairPrice,1.2934982,103.7846403
+6304207406,node,convenience_store,Khan Products,1.3092573,103.8550398
+6304207414,node,convenience_store,Aysha,1.3093317,103.8546221
+6304207416,node,convenience_store,Minimart,1.3094035,103.8545188
+6304207419,node,convenience_store,Al-Amin,1.309381,103.854554
+6304207429,node,convenience_store,Bangala Stores,1.3099626,103.8545664
+6318347001,node,convenience_store,7-Eleven,1.2772216,103.8367959
+6326830475,node,supermarket,Sheng Siong,1.3487508,103.7032901
+6326830482,node,convenience_store,7-Eleven,1.3500428,103.7012145
+6326830790,node,supermarket,Prime Supermarket,1.3485988,103.6983097
+6328269985,node,convenience_store,7-Eleven,1.4583124,103.6442373
+6356072963,node,convenience_store,7-Eleven,1.301533,103.8368208
+6357840483,node,supermarket,I-Tec,1.3134045,103.8851494
+6357848515,node,supermarket,Yes Natural Retail,1.3158211,103.8837425
+6357905602,node,convenience_store,7-Eleven,1.2841464,103.8525887
+6362678587,node,supermarket,Sheng Siong,1.3522389,103.715901
+6364949109,node,convenience_store,The Real Wholesale Mart,1.3540027,103.7187528
+6373832431,node,convenience_store,7-Eleven,1.3207529,103.7468643
+6373943537,node,supermarket,Shafen Supermarket,1.3211109,103.7382196
+6377370586,node,convenience_store,7-Eleven,1.2788141,103.8486232
+6378309586,node,supermarket,Wah Cheong,1.30967,103.8842703
+6382449323,node,supermarket,Swanston,1.2854613,103.8430302
+6390805186,node,supermarket,KDS Supermarket,1.3127942,103.8711163
+6390805195,node,convenience_store,DS Mini Mart,1.3124705,103.8723706
+6391185161,node,convenience_store,Cosway,1.314167,103.8707355
+6396262985,node,convenience_store,Unnamed,1.430174,103.6117513
+6398250288,node,convenience_store,Cheers,1.3059449,103.8608461
+6403503372,node,convenience_store,Li Feng Yuan Minimart,1.3277739,103.885232
+6411349985,node,attraction,Plant House,1.3101143,103.8174937
+6415409985,node,supermarket,Maha mart,1.2740384,103.8103393
+6417350987,node,convenience_store,7-Eleven,1.2494329,103.8217964
+6425362881,node,attraction,Unnamed,1.3005868,103.8590397
+6436392749,node,convenience_store,Kumaran Mini Mart,1.3506934,103.7200342
+6437694985,node,convenience_store,7-Eleven,1.3364251,103.8890361
+6440064328,node,mall,The Poiz Centre,1.331436,103.8685709
+6461673885,node,supermarket,Scoop Wholefoods,1.3047518,103.8234804
+6472864416,node,convenience_store,7-Eleven,1.3500695,103.731428
+6480321640,node,supermarket,Prime SuperMarket,1.4251164,103.8332429
+6493279098,node,convenience_store,Cheers,1.3957883,103.8920609
+6494878887,node,supermarket,UnPackt,1.2772417,103.8486417
+6494878888,node,supermarket,UnPackt,1.3727295,103.8295882
+6497423049,node,supermarket,Cold Storage,1.3107963,103.8638602
+6499063408,node,convenience_store,Unnamed,1.3982442,103.878013
+6503251149,node,convenience_store,7-Eleven,1.3272075,103.8466337
+6510975824,node,convenience_store,7-Eleven,1.2907524,103.8583951
+6510975835,node,convenience_store,Shine Korea,1.290933,103.8584033
+6510975868,node,supermarket,HAO Eccellente,1.2924588,103.8583556
+6511646348,node,convenience_store,Cheers,1.3162934,103.8369559
+6511660755,node,convenience_store,Star Mart,1.3187818,103.8335938
+6512510561,node,attraction,PUB Water Rapid Flow,1.3571032,103.8045715
+6513118587,node,supermarket,SuperNature,1.3061755,103.8288115
+6514811747,node,convenience_store,7-Eleven,1.280156,103.8540257
+6515042555,node,convenience_store,Haveen Minimart Pte Ltd,1.3490258,103.7296149
+6531508595,node,convenience_store,7-Eleven,1.288768,103.8475049
+6531516885,node,supermarket,Don Don Donki,1.311611,103.8565105
+6532304169,node,mrt_station,B,1.358383,103.9873758
+6532304174,node,mrt_station,C,1.3619808,103.9889622
+6532304178,node,mrt_station,D,1.3610209,103.9918185
+6532304181,node,mrt_station,E,1.3570046,103.9900385
+6532332886,node,mrt_station,A South,1.350108,103.9838301
+6565863077,node,supermarket,FairPrice,1.3209299,103.8702956
+6575952459,node,supermarket,FairPrice,1.3190161,103.8638661
+6583281502,node,supermarket,FairPrice Finest,1.2910424,103.8502148
+6589739733,node,mrt_station,Beach,1.2512942,103.8177659
+6589891324,node,convenience_store,Hao Mart,1.373593,103.7737256
+6614228950,node,convenience_store,Sri Selvi,1.3474419,103.8735513
+6618303009,node,convenience_store,Koryo Mart,1.3924726,103.8949003
+6633499666,node,supermarket,FairPrice,1.331674,103.8685537
+6639589386,node,convenience_store,7-Eleven,1.4059392,103.9026609
+6648442685,node,convenience_store,7-Eleven,1.3624216,103.7512277
+6649097786,node,convenience_store,Sri Murugan,1.4300361,103.836616
+6649603949,node,supermarket,FairPrice,1.4289409,103.8359955
+6652483045,node,convenience_store,EZ Home Products Pte Ltd,1.3915499,103.8932964
+6665214341,node,convenience_store,7-Eleven,1.3177775,103.8436953
+6696331885,node,supermarket,Chap He Diam,1.3321155,103.6990662
+6714923101,node,supermarket,Sheng Siong,1.4018757,103.8921304
+6743669037,node,supermarket,Scarlett,1.29999,103.8543229
+6749841389,node,convenience_store,7-Eleven,1.3329424,103.8491932
+6766238578,node,supermarket,FairPrice,1.3487949,103.8496434
+6766268292,node,supermarket,NTUC Fairprice,1.276936,103.8313722
+6766330669,node,supermarket,FairPrice,1.3471669,103.7428387
+6768920189,node,supermarket,FairPrice,1.4538855,103.8197104
+6771496469,node,supermarket,FairPrice Shop Blk 5 Eunos Crescent,1.3211968,103.9035553
+6773507512,node,supermarket,FairPrice Xtra,1.3348478,103.9637744
+6773538106,node,supermarket,FairPrice,1.2864788,103.8083891
+6773549549,node,supermarket,FairPrice,1.3158326,103.8982559
+6773555407,node,supermarket,FairPrice,1.3923315,103.872624
+6773991589,node,supermarket,FairPrice,1.3425048,103.7393663
+6773995585,node,supermarket,FairPrice,1.3454906,103.7309506
+6774014753,node,supermarket,FairPrice,1.3485084,103.7241529
+6774046360,node,supermarket,FairPrice,1.4170652,103.8353476
+6774109999,node,supermarket,FairPrice,1.3919821,103.7432068
+6774238572,node,supermarket,FairPrice,1.4112844,103.8435315
+6774282101,node,supermarket,FairPrice,1.4027599,103.9133166
+6774439228,node,supermarket,FairPrice,1.2863838,103.8142036
+6774457742,node,supermarket,FairPrice Finest,1.3911684,103.8759756
+6774459828,node,supermarket,FairPrice,1.3540387,103.8707537
+6774577351,node,supermarket,FairPrice,1.3364335,103.8888115
+6774615783,node,supermarket,FairPrice,1.3553517,103.9343161
+6774619956,node,supermarket,FairPrice,1.3472751,103.9569647
+6775983832,node,supermarket,FairPrice,1.3126523,103.8727631
+6775990889,node,supermarket,FairPrice,1.3388217,103.8489919
+6776013581,node,supermarket,FairPrice,1.3117956,103.7591074
+6776050785,node,attraction,Old terraced houses,1.3145414,103.9005788
+6780648703,node,convenience_store,Cheers,1.2892081,103.8472487
+6781738556,node,supermarket,FairPrice,1.3320147,103.7226023
+6781740825,node,supermarket,FairPrice Finest,1.4184329,103.8410257
+6781782400,node,supermarket,FairPrice,1.4246275,103.8466717
+6787005018,node,supermarket,Cold Storage,1.3314654,103.8067968
+6787286589,node,supermarket,Cold Storage,1.2775827,103.8525052
+6787467048,node,supermarket,Cold Storage,1.3368125,103.783834
+6796639014,node,supermarket,FairPrice Xtra,1.2647712,103.8230258
+6799825420,node,convenience_store,7-Eleven,1.2777381,103.8473906
+6800745687,node,convenience_store,Mini Mart,1.3564661,103.9456642
+6813590943,node,attraction,The Bunker,1.3200847,103.8178503
+6817445808,node,supermarket,Giant Express,1.4499976,103.81414
+6817491689,node,supermarket,Giant,1.3742656,103.8392817
+6817614548,node,supermarket,Sheng Siong,1.319175,103.7333208
+6817625800,node,supermarket,Sheng Siong,1.3444059,103.7553403
+6817644618,node,supermarket,Sheng Siong,1.3474556,103.7437317
+6817648573,node,supermarket,Sheng Siong,1.4507862,103.7968231
+6817674416,node,supermarket,Sheng Siong,1.3839521,103.7708865
+6817678203,node,supermarket,Sheng Siong,1.4311005,103.7985065
+6817701303,node,supermarket,Sheng Siong,1.4468922,103.8055002
+6817714003,node,supermarket,Sheng Siong,1.4489117,103.8323549
+6817725013,node,supermarket,Sheng Siong,1.4160254,103.8349534
+6817773138,node,supermarket,Sheng Siong,1.4202258,103.8435456
+6817790059,node,supermarket,Sheng Siong,1.3561466,103.9459483
+6817791328,node,supermarket,Sheng Siong,1.3140474,103.8704826
+6817794743,node,supermarket,Sheng Siong,1.2954188,103.8100462
+6817805409,node,supermarket,Sheng Siong,1.3216926,103.8596186
+6817845254,node,supermarket,Sheng Siong,1.3313147,103.9366634
+6817845971,node,supermarket,Sheng Siong,1.3670929,103.9647716
+6817851554,node,supermarket,Sheng Siong,1.3696509,103.9479234
+6817854870,node,supermarket,Sheng Siong,1.393146,103.8870307
+6817860014,node,supermarket,Sheng Siong,1.3518705,103.8360699
+6817866204,node,supermarket,Sheng Siong,1.3783709,103.9419858
+6817868676,node,supermarket,Sheng Siong,1.3390393,103.8554033
+6817879121,node,supermarket,Sheng Siong,1.3917064,103.8801703
+6817879378,node,supermarket,Sheng Siong,1.3978089,103.8813041
+6817895357,node,supermarket,Sheng Siong,1.402634,103.9165726
+6817895715,node,supermarket,Sheng Siong,1.4037905,103.9061683
+6819055577,node,supermarket,Giant,1.4524553,103.8172929
+6819090855,node,supermarket,Giant,1.4311426,103.7941833
+6819096067,node,supermarket,Giant,1.3647722,103.847405
+6819104339,node,supermarket,Giant,1.4057405,103.912079
+6819105304,node,supermarket,Giant,1.372842,103.8539753
+6819106349,node,supermarket,Giant,1.4171386,103.832905
+6819120163,node,supermarket,Giant,1.4005639,103.9105302
+6819144925,node,supermarket,Giant,1.4364339,103.8374596
+6819173986,node,supermarket,Giant,1.4250761,103.8473487
+6819186586,node,supermarket,Sheng Siong,1.3497162,103.8499272
+6819191014,node,supermarket,Giant,1.2777804,103.8192758
+6819197893,node,supermarket,Giant,1.2869001,103.8184225
+6819222292,node,supermarket,Giant Express,1.3833813,103.7711297
+6819677131,node,supermarket,Giant,1.3533018,103.8714468
+6819677140,node,supermarket,Giant Hougang 683,1.3737908,103.8861522
+6819728732,node,supermarket,Giant,1.3543836,103.9602606
+6819737323,node,supermarket,Giant,1.3690709,103.9585122
+6819737753,node,supermarket,Giant,1.3748971,103.9369813
+6819756338,node,supermarket,Giant,1.3663512,103.9645143
+6819764351,node,supermarket,Giant,1.3492091,103.9348376
+6819785510,node,supermarket,Giant,1.3337835,103.9308648
+6819872136,node,supermarket,Scarlett 思家客,1.3191162,103.8924825
+6819937475,node,supermarket,Giant,1.3056156,103.9154038
+6856660237,node,convenience_store,IKEA Swedish Food Market,1.3735867,103.9325304
+6875211347,node,mall,Bengkong Shopping Centre,1.158094,104.0264814
+6876142696,node,convenience_store,Indomaret,1.1587358,104.0293448
+6876142697,node,convenience_store,Alfamart,1.1589116,104.0287906
+6880552158,node,convenience_store,Scootz,1.2873618,103.8134788
+6887559776,node,supermarket,Ang Mo Supermarket,1.3580864,103.8442103
+6887559777,node,supermarket,Ang Mo Supermarket,1.3618993,103.8554186
+6887559778,node,supermarket,Ang Mo Supermarket,1.3716327,103.8802545
+6887559779,node,supermarket,Ang Mo Supermarket,1.3994303,103.9161651
+6887559780,node,supermarket,Ang Mo Supermarket,1.3993974,103.9064796
+6895146922,node,convenience_store,7-Eleven,1.2944945,103.8601957
+6912346185,node,attraction,Haji lane,1.3015475,103.858471
+6913306135,node,convenience_store,Alfamart,1.1443984,104.0061496
+6913306136,node,convenience_store,Indomaret,1.1445186,104.0061342
+6930038185,node,convenience_store,7-Eleven,1.2845726,103.84676
+6932017985,node,convenience_store,7-Eleven,1.3079861,103.8624348
+6935689736,node,convenience_store,Unnamed,1.3041405,103.7825227
+6939018372,node,convenience_store,7-Eleven,1.2884012,103.8492155
+6953424385,node,attraction,Colourful house in little India,1.3071451,103.8510017
+6956299292,node,attraction,Petal Garden,1.3607744,103.9893688
+6975908293,node,supermarket,Cold Storage,1.3008369,103.9054998
+6976881192,node,supermarket,Cold Storage,1.3008369,103.9054998
+6979554018,node,convenience_store,7-Eleven,1.3441026,103.720077
+7005482945,node,convenience_store,7-Eleven,1.3199037,103.8433104
+7033606987,node,attraction,amigos horse riding,1.4414468,103.9381201
+7040000654,node,supermarket,Sheng Siong,1.4428927,103.7748706
+7049663481,node,convenience_store,7-Eleven,1.3036665,103.849989
+7053716974,node,convenience_store,Cheers,1.2965756,103.8539341
+7053748487,node,convenience_store,Sri Murugan Trading,1.3363953,103.7556839
+7055976422,node,convenience_store,7-Eleven,1.3726048,103.9317635
+7079734537,node,convenience_store,GG Mart,1.3263796,103.8486257
+7082565853,node,convenience_store,7-Eleven,1.3043671,103.9238404
+7129649710,node,convenience_store,7-Eleven,1.3041442,103.8323083
+7129655562,node,convenience_store,7-Eleven,1.3424079,103.7761097
+7130042985,node,convenience_store,Hao mart,1.2884015,103.8185263
+7139407679,node,supermarket,Prime Supermarket,1.3278267,103.8611225
+7139429522,node,supermarket,Hao Mart,1.3281476,103.8602173
+7141345782,node,convenience_store,Marine Villa Express,1.303802,103.9124606
+7143735346,node,supermarket,Toy Station,1.3225742,103.8137376
+7162237585,node,supermarket,NTUC Fairprice,1.3361915,103.7868805
+7168930214,node,convenience_store,Mesra,1.4700136,103.9050744
+7172800790,node,convenience_store,Mart,1.3967866,103.6311302
+7176607485,node,attraction,Discovery Garden,1.3619506,103.9917464
+7194716360,node,attraction,Bunker,1.4474625,103.8241717
+7196776996,node,convenience_store,Ai Jai Grocery & Minimart,1.3267877,103.9190219
+7215457385,node,attraction,Fort Canning Tree Tunnel,1.2972953,103.8463119
+7232166459,node,supermarket,Prime,1.3952215,103.8959287
+7234506585,node,convenience_store,Jasons Deli,1.3040771,103.8316123
+7256025190,node,supermarket,Sheng Siong,1.4353435,103.7759132
+7283605843,node,convenience_store,7-Eleven,1.2812461,103.8105454
+7287289985,node,attraction,Rainbow Bridge,1.4331759,103.7606836
+7302271622,node,convenience_store,Cheers,1.3000215,103.9077224
+7302286632,node,supermarket,Hao Mart,1.3730856,103.8295881
+7353896557,node,supermarket,Meidi-Ya,1.2939643,103.8319923
+7451059488,node,supermarket,Selvi Stores,1.3061466,103.8500303
+7512005961,node,convenience_store,Tenaga mini mart,1.3323285,103.9061071
+7513336021,node,convenience_store,7-Eleven,1.3458874,103.7008018
+7528488886,node,convenience_store,7-Eleven,1.337581,103.9220124
+7572291983,node,convenience_store,Olivers Fresh Mart,1.4714397,103.7650028
+7616935702,node,convenience_store,Cheers,1.324381,103.9292908
+7627751987,node,convenience_store,Cheers,1.347451,103.7442599
+7627757986,node,supermarket,Wet Market,1.3473084,103.7438535
+7678872567,node,mrt_station,Ang Mo Kio,1.3700803,103.8495228
+7693363394,node,supermarket,Sheng Siong,1.3443716,103.7550894
+7728528992,node,convenience_store,7-Eleven,1.3418967,103.6974801
+7731052994,node,convenience_store,888 Triple Eight Minimart,1.341684,103.7755159
+7733212537,node,attraction,Jurassic MIle Start/End,1.3350499,103.983489
+7733212539,node,attraction,Jurassic Mile Start/End,1.327532,103.9807338
+7733212551,node,attraction,Jurassic Mile,1.3331625,103.9830849
+7750359954,node,supermarket,FairPrice,1.334117,103.7403709
+7773243303,node,supermarket,Jmart,1.364222,103.8489685
+7773260154,node,convenience_store,Unnamed,1.3700677,103.8727391
+7821675218,node,convenience_store,Cheers,1.3510908,103.7236849
+7821675341,node,convenience_store,Unnamed,1.3371952,103.7527469
+7832186141,node,attraction,Douc Langur,1.4053462,103.794496
+7832186142,node,attraction,Colobus Monkey,1.405266,103.7949822
+7832186143,node,attraction,Cassowary,1.4060753,103.7935963
+7832186144,node,attraction,Tree Kangaroo,1.405976,103.7933102
+7832186145,node,attraction,Wallaby,1.4058372,103.79304
+7832186146,node,attraction,Meerkat,1.405231,103.7933181
+7832186147,node,attraction,Red-ruffed Lemur,1.404113,103.7931666
+7836789018,node,attraction,Butterfly Aviary,1.4021457,103.7954988
+7836789019,node,attraction,Flying Fox,1.4024351,103.7954807
+7836789020,node,attraction,Ring-tailed Lemur,1.4023989,103.7952545
+7836789021,node,attraction,Pigmy Marmoset,1.4022542,103.7961366
+7836789022,node,attraction,Naked Mole Rat,1.4019105,103.7948067
+7840444151,node,convenience_store,Petti Shop,1.3066017,103.8516787
+7851557778,node,convenience_store,Annai Marketing,1.3079012,103.8506453
+7883268941,node,convenience_store,H M Hussain,1.307321,103.7956057
+7900880085,node,attraction,Living Off The Land,1.382448,103.8222861
+7900890085,node,attraction,HAN Family,1.3827701,103.8232709
+7908930034,node,convenience_store,7-Eleven,1.3130883,103.8606151
+8071596346,node,convenience_store,7-Eleven,1.312229,103.8547866
+8071622514,node,supermarket,Haniffa,1.3058966,103.8526085
+8108537848,node,attraction,Colourful Shophouses,1.3235587,103.8510073
+8108577830,node,convenience_store,Choices,1.3232432,103.8193579
+8108578052,node,attraction,Beaded Collection,1.3198501,103.8167142
+8132716617,node,attraction,Former Mandai Hut (demolished),1.4026328,103.7764542
+8150844098,node,convenience_store,7-Eleven,1.3989584,103.8181031
+8181546070,node,supermarket,Meidi-Ya,1.2918384,103.8595448
+8184564127,node,supermarket,HAO Eccellente,1.293658,103.855349
+8199101434,node,convenience_store,Unnamed,1.3372937,103.7539333
+8208601386,node,convenience_store,王家莊迷你超级市场,1.3515591,103.9373019
+8208601387,node,convenience_store,iEcon,1.3515779,103.9372563
+8208607238,node,convenience_store,7-Eleven,1.357477,103.9403266
+8208629140,node,supermarket,Sheng Siong,1.3610846,103.9374407
+8209602270,node,convenience_store,Star Mart,1.3495058,103.9282581
+8209633718,node,attraction,Seletar Aerospace Park,1.4085925,103.8680287
+8223862809,node,convenience_store,Shell Select,1.2867909,103.8344284
+8223864775,node,convenience_store,Choices,1.2884085,103.8379609
+8226146716,node,supermarket,FairPrice,1.3271466,103.6779931
+8233160393,node,convenience_store,Cheers,1.3210315,103.9126426
+8233160394,node,convenience_store,7-Eleven,1.3203859,103.9124273
+8254154680,node,supermarket,Sheng Siong,1.3918936,103.871457
+8266903961,node,convenience_store,7-Eleven,1.3081933,103.8519188
+8266907110,node,convenience_store,Li Li Cheng Minimart,1.337298,103.6974075
+8362831997,node,convenience_store,Star Mart,1.3250426,103.8269649
+8389088599,node,attraction,Tuas Lamp Post 1,1.2417202,103.6149693
+8427208513,node,convenience_store,Unnamed,1.3263838,103.8562412
+8460359371,node,convenience_store,Buzz,1.2858598,103.8266624
+8474547229,node,convenience_store,Triple H Kiosk,1.3939175,103.9125762
+8474547240,node,convenience_store,Cheers,1.3940803,103.9129612
+8474835242,node,supermarket,Prime,1.3963709,103.9090457
+8474835244,node,convenience_store,Unnamed,1.3968685,103.9089802
+8496654288,node,convenience_store,Papercup Market Place,1.3194209,103.9024878
+8496654293,node,convenience_store,7-Eleven,1.3197023,103.9023603
+8496654300,node,convenience_store,Smiles Eunos,1.3212754,103.9042471
+8505795942,node,convenience_store,Pao Fu,1.2885142,103.8145259
+8514439927,node,supermarket,DON DON DONKI Jem,1.3327906,103.7430876
+8526792784,node,convenience_store,7-Eleven,1.2978099,103.8456916
+8526971984,node,convenience_store,7-Eleven,1.3189362,103.8935142
+8526971996,node,supermarket,FairPrice Finest,1.317775,103.8929956
+8526972000,node,convenience_store,Cheers,1.3182708,103.8932833
+8556122306,node,convenience_store,Cheers,1.3693675,103.8490966
+8556164724,node,convenience_store,Cheers,1.3692413,103.8475803
+8556333498,node,convenience_store,7-Eleven,1.3714259,103.8479712
+8566305133,node,convenience_store,7-Eleven,1.402684,103.9130341
+8566518437,node,convenience_store,Feyazi Fancy Centre (Mini Mart),1.3056741,103.8299939
+8566518449,node,convenience_store,Cheers,1.3056065,103.8301761
+8568738790,node,convenience_store,Unnamed,1.3515972,103.7252839
+8573358107,node,attraction,Former Tuas TV World Site,1.3472497,103.6398656
+8573367917,node,attraction,Nantah Arch,1.3425098,103.68506
+8573380053,node,convenience_store,Unnamed,1.2893636,103.6257824
+8582266734,node,supermarket,FairPrice,1.30519,103.8513117
+8588406245,node,attraction,Tiong Bahru Air Raid Shelter,1.2834152,103.8308367
+8597539837,node,convenience_store,7-Eleven,1.3177835,103.8932786
+8598400998,node,supermarket,FairPrice SingPost Centre,1.3190301,103.8938497
+8602874913,node,attraction,Abandoned Car,1.3313174,103.8216533
+8613927475,node,convenience_store,7-Eleven,1.3505982,103.847954
+8624787979,node,supermarket,BERNAMO KEMAS,1.148831,104.0130906
+8627880687,node,convenience_store,Cheers,1.3331139,103.8471318
+8628474466,node,convenience_store,7-Eleven,1.3115447,103.7959073
+8642464774,node,convenience_store,7-Eleven,1.2761558,103.8460415
+8642592344,node,convenience_store,7-Eleven,1.278374,103.8498498
+8642719436,node,convenience_store,7-Eleven,1.2827675,103.8596191
+8647876886,node,convenience_store,Leeds Mart,1.3053676,103.8523563
+8658484692,node,convenience_store,7-Eleven,1.379167,103.935971
+8658564752,node,convenience_store,7-Eleven,1.3719152,103.9468396
+8696320617,node,attraction,Abandoned Motorbike,1.268565,103.8192156
+8696320717,node,attraction,Big Banyan Tree,1.2702295,103.8199623
+8709291802,node,convenience_store,7-Eleven,1.3451501,103.9585957
+8735385317,node,attraction,ruins,1.3819818,103.822368
+8738551201,node,supermarket,Prime Supermarket,1.3081107,103.8605103
+8738575960,node,supermarket,Hao Mart,1.3082098,103.8604142
+8738582943,node,convenience_store,Sri Natraj Stores,1.3156185,103.8582264
+8757902075,node,convenience_store,Unnamed,1.3072298,103.9365033
+8863052812,node,supermarket,Value Dollar,1.3337369,103.9142968
+8895494557,node,supermarket,FairPrice,1.4430051,103.8306834
+8898712944,node,supermarket,Interior Artist Pte Ltd,1.3131662,103.8566188
+8941732248,node,convenience_store,7-Eleven,1.2970663,103.8525303
+8957615773,node,supermarket,Unnamed,1.3180595,103.8614978
+8976385062,node,convenience_store,7-Eleven,1.3035409,103.8647727
+9019981344,node,supermarket,YeoExpress,1.380551,103.7696864
+9025813291,node,supermarket,Prime,1.3485388,103.7428281
+9043808171,node,attraction,Botanical Art Gallery,1.3145593,103.8099841
+9043819288,node,attraction,Forest Discovery Centre,1.3137975,103.810677
+9051004456,node,supermarket,my Supermarket,1.313576,103.8569542
+9051004869,node,supermarket,The Captain Superstore,1.3263118,103.8425333
+9061396264,node,convenience_store,retail shop,1.2874053,103.8312169
+9061404017,node,convenience_store,7-Eleven,1.3736652,103.8551237
+9061431417,node,supermarket,Giant Express,1.3726391,103.8538715
+9061506917,node,convenience_store,ALFA H MART,1.2755248,103.8412528
+9067145814,node,convenience_store,Unnamed,1.3411761,103.7171129
+9072672145,node,supermarket,FairPrice,1.3599355,103.9696555
+9075868768,node,supermarket,FairPrice,1.3085642,103.7847344
+9080767156,node,convenience_store,Yak Hong Family Mart,1.3267022,103.7234428
+9083490740,node,supermarket,Save Mart,1.2814277,103.8421059
+9084096616,node,supermarket,Univers-Markt Enterprise Pte. Ltd.,1.3110935,103.7716015
+9108000217,node,supermarket,Free & Easy Minimart,1.3137808,103.7624229
+9109499996,node,supermarket,U Stars Supermarket @ 345,1.3175955,103.7693303
+9123394239,node,convenience_store,Cheers,1.2764717,103.8450848
+9130852217,node,convenience_store,Mini Mart SM Tresha,1.3267649,103.843634
+9142407240,node,convenience_store,7-Eleven,1.3850571,103.7602946
+9165286732,node,convenience_store,Kalam Mart,1.3128594,103.8563509
+9176436459,node,attraction,Unnamed,1.3437504,103.6849923
+9229721519,node,convenience_store,Orange Mart,1.3618316,103.8517742
+9238076261,node,convenience_store,Preethika,1.323066,103.8555996
+9240327951,node,attraction,Ruins,1.2721544,103.814482
+9269072798,node,supermarket,Giant Supermarket,1.4166861,103.9017438
+9271218389,node,convenience_store,Arshad Minimart,1.3546852,103.8360245
+9276836117,node,supermarket,Ramya Minimart,1.3614167,103.9580841
+9284717787,node,attraction,Motorbike (NBE),1.365281,103.784848
+9288364791,node,attraction,Estuarine Crocodile,1.4027356,103.7953868
+9288364792,node,attraction,Indian Gharial,1.4034623,103.7947954
+9288364800,node,attraction,Ploughshare Tortoise,1.4031995,103.7949845
+9288368317,node,attraction,Goat,1.4032444,103.7967447
+9288368318,node,attraction,Rabbit,1.4032297,103.7969398
+9288368319,node,attraction,Animal Friends,1.4035722,103.7964651
+9288368358,node,attraction,Fossa,1.4020519,103.7948169
+9288368359,node,attraction,Leopard,1.4016765,103.7946412
+9288368360,node,attraction,Lion,1.4016202,103.7943488
+9288368361,node,attraction,Giraffe,1.4012555,103.7941691
+9288368362,node,attraction,Zebra,1.4016604,103.7939143
+9288368363,node,attraction,Warthog,1.4020438,103.7942201
+9288368364,node,attraction,African Painted Dog,1.4029367,103.7939572
+9288368365,node,attraction,Cheetah,1.4024943,103.7941182
+9288368366,node,attraction,White Tailed Gnu,1.4023066,103.7937292
+9288368367,node,attraction,Eland,1.4026391,103.7934664
+9288368368,node,attraction,White Rhinoceros,1.4028697,103.7933779
+9288368369,node,attraction,Mandrill,1.402257,103.7959582
+9288368373,node,attraction,Chimpanzee,1.4027544,103.7960601
+9288368378,node,attraction,Bornean Orang Utan,1.4035333,103.7939787
+9288368379,node,attraction,Nubian Ibex,1.4058849,103.7935656
+9288368380,node,attraction,Cotton-top Tamarin,1.4052079,103.794259
+9288368381,node,attraction,Spider Monkey,1.4048861,103.7945111
+9288368382,node,attraction,Splash Safari,1.4044946,103.7949456
+9288368398,node,attraction,Africa Penguin,1.4039664,103.7941276
+9288368399,node,attraction,Black-and-white Ruffed Lemur,1.4051583,103.7952581
+9288368400,node,attraction,Capuchin Monkey,1.4052213,103.7952863
+9288368401,node,attraction,Lion-Tailed Macaque,1.4049518,103.794959
+9288368402,node,attraction,Asian Elephant,1.4052897,103.79582
+9288368427,node,attraction,Brickosaurs,1.4060217,103.7949161
+9288368439,node,attraction,Rainforest Fights Back,1.4045174,103.7950301
+9288368440,node,attraction,Serval,1.4049706,103.7937078
+9288368441,node,attraction,Hamadryas Baboon,1.4055404,103.7935804
+9288368443,node,attraction,Grey Kangaroo,1.4060565,103.7932357
+9288368444,node,attraction,Red River Hog,1.4055149,103.7930185
+9288368445,node,attraction,Pygmy Hippo,1.4052213,103.7930077
+9288368446,node,attraction,Pelican,1.4041983,103.7927885
+9288368447,node,attraction,Gibbon,1.40413,103.7930238
+9288368454,node,attraction,Polar Bear,1.4035535,103.7931029
+9288368461,node,attraction,White Tiger,1.4047588,103.7930506
+9288368513,node,attraction,Anoa,1.4048057,103.792256
+9288368517,node,attraction,Valley of Brickosaurs,1.4046676,103.7921501
+9288368522,node,attraction,Babirusa,1.4046837,103.7925142
+9288368523,node,attraction,Asian Small-Clawed Otter,1.4047226,103.7920234
+9288368524,node,attraction,Proboscis Monkey,1.4046455,103.7915084
+9288368528,node,attraction,Siamang,1.4051248,103.7917129
+9288368585,node,attraction,Pacu,1.4032692,103.7903953
+9288368586,node,attraction,Arapaima,1.4033349,103.7903443
+9288368587,node,attraction,Manatee,1.4033416,103.7904556
+9288368588,node,attraction,Red-tailed Catfish,1.4034073,103.7904167
+9288368589,node,attraction,Red-bellied Piranha,1.4033993,103.7905253
+9288368590,node,attraction,Electric Eel,1.4030018,103.790524
+9288368591,node,attraction,Giant River Otter,1.4031975,103.7906098
+9288368593,node,attraction,Cuvier's Dwarf Caiman,1.4031901,103.7911905
+9288368600,node,attraction,Yellow-footed Tortoise,1.4028751,103.7913052
+9288368603,node,attraction,Bare-faced Curassow,1.4027745,103.7915922
+9288368604,node,attraction,Golden Headed Lion Tamarin,1.4027303,103.791617
+9288368605,node,attraction,Green Anacondo,1.4026673,103.7916525
+9288368606,node,attraction,Carribbean Flamingo,1.4028523,103.7910698
+9288368634,node,attraction,Capybara,1.4025882,103.7914574
+9288368635,node,attraction,Silver Arowana,1.4028335,103.7915439
+9288368639,node,attraction,White-faced Saki Monkey,1.4031921,103.7908962
+9288368640,node,attraction,Squirrel Monkey,1.4029555,103.7913018
+9288368641,node,attraction,Black Howler Monkey,1.4030306,103.7910779
+9288368656,node,attraction,Brazilian Tapir,1.4028509,103.7906863
+9288368657,node,attraction,Brazilian Tapir,1.4025104,103.7908338
+9288368658,node,attraction,Guanaco,1.4021913,103.791212
+9288368705,node,attraction,Giant Anteater,1.4017536,103.7914903
+9288368714,node,attraction,Red Howler Monkey,1.4016745,103.7916378
+9288368737,node,attraction,Bearded Saki,1.4015585,103.7915325
+9288368738,node,attraction,Tufted Capuchin,1.4015451,103.7917525
+9288368750,node,attraction,Collared Peccary,1.4017449,103.7917974
+9288368780,node,attraction,Giant Panda,1.4037639,103.7924733
+9288368781,node,attraction,Red Panda,1.4038149,103.7923305
+9288368782,node,attraction,Sturgeon,1.4038853,103.7922198
+9288368783,node,attraction,Chinese Giant Salamander,1.4039369,103.7922353
+9288368784,node,attraction,Yangtze Alligator,1.4039825,103.7922487
+9288368793,node,attraction,Giant Freshwater Stingray,1.4041675,103.7918597
+9288368799,node,attraction,Mekong Giant Catfish,1.4042218,103.7918879
+9288368800,node,attraction,Storks,1.4041065,103.7920649
+9288368801,node,attraction,Fire Eel,1.4040596,103.7920267
+9288368802,node,attraction,Lion-Tailed Macaque,1.4039496,103.7919436
+9288368803,node,attraction,Horseshoe Crab,1.4037288,103.7918708
+9288368804,node,attraction,Mudskipper,1.4037509,103.7918369
+9288368805,node,attraction,Archerfish,1.4037656,103.7918145
+9288368806,node,attraction,Australian Lungfish,1.4037921,103.7917726
+9288368807,node,attraction,Indian Gharial,1.4038152,103.7916623
+9288368808,node,attraction,Tigerfish,1.4039292,103.791043
+9288368809,node,attraction,African Dwarf Crocodile,1.4039925,103.7909612
+9288368810,node,attraction,Kribensis,1.4040737,103.7911521
+9288368811,node,attraction,Reedfish,1.4040631,103.7911526
+9288368812,node,attraction,Elephantnose Fish,1.4040559,103.791091
+9288368813,node,attraction,Eastern Battlenose,1.4040569,103.7910759
+9288368814,node,attraction,Tigerfish,1.4040579,103.7910343
+9288368815,node,attraction,Atlantic Tarpons,1.4040592,103.7909927
+9288368816,node,attraction,Trumpeter Hornbill,1.4041809,103.7910618
+9298202657,node,convenience_store,Choices,1.3279258,103.9396022
+9317765912,node,supermarket,M28 Minimart,1.3873727,103.7726114
+9328830708,node,attraction,Shrine,1.2730334,103.8171795
+9329489595,node,attraction,Storage Ruin,1.272132,103.81336
+9331357657,node,convenience_store,888 Mini Mart,1.3355253,103.7830757
+9331402603,node,convenience_store,7-Eleven,1.3038238,103.8328079
+9340863332,node,supermarket,Ang Mo Supermarket,1.4382576,103.803627
+9355074648,node,convenience_store,Alfamart,1.1554681,104.0238069
+9355074654,node,convenience_store,Alfamart,1.157409,104.0250881
+9355074655,node,convenience_store,Indomaret,1.1634898,104.0360773
+9355074656,node,convenience_store,Alfamart,1.1644399,104.0360472
+9355074657,node,convenience_store,Alfamart,1.1625589,104.0393165
+9368959878,node,convenience_store,7-Eleven,1.3163433,103.8355655
+9369322155,node,supermarket,Sri Murugan,1.3495601,103.9332669
+9374861017,node,supermarket,Ang Mo Supermarket,1.4382764,103.8036399
+9378474779,node,supermarket,Prime Supermarket,1.4447047,103.8159919
+9378482487,node,supermarket,U Stars Xpress,1.3702816,103.8721951
+9378497370,node,supermarket,Krishna Stores,1.3851473,103.7429918
+9378513492,node,supermarket,U Stars Supermarket,1.2739509,103.8086629
+9378530695,node,supermarket,U Stars Supermarket,1.3510967,103.9293207
+9378533991,node,supermarket,U Stars Supermarket,1.4151041,103.8399222
+9378596849,node,supermarket,U Stars Supermarket,1.4404745,103.806297
+9391508360,node,supermarket,U Stars Supermarket,1.3533544,103.9525615
+9391515250,node,supermarket,U Stars Supermarket,1.3810408,103.7522696
+9391540590,node,supermarket,U Stars Supermarket,1.3786288,103.9421553
+9391542091,node,supermarket,U Stars Supermarket,1.4366436,103.8366613
+9391561489,node,supermarket,U Stars Supermarket,1.3320409,103.9305111
+9391564761,node,supermarket,U Stars Supermarket,1.3148526,103.8823136
+9391574454,node,supermarket,U Stars Supermarket,1.345878,103.9454948
+9391577063,node,supermarket,U Stars Supermarket,1.3300973,103.9010705
+9391578473,node,supermarket,U Stars Supermarket,1.3399945,103.7731494
+9391584935,node,supermarket,U Stars Supermarket,1.3532511,103.8897356
+9393432303,node,supermarket,Sheng Siong Supermarket,1.336438,103.8728643
+9393432836,node,supermarket,U Star Supermarket,1.3492994,103.9348381
+9393453018,node,supermarket,Don Don Donki,1.377213,103.9549765
+9407235700,node,supermarket,Jason's Deli,1.2844899,103.8602433
+9409089640,node,supermarket,Prime Supermarket,1.3736137,103.8713274
+9409092749,node,supermarket,Prime Supermarket,1.334275,103.8788956
+9409094941,node,supermarket,Prime Supermarket,1.3518731,103.8796115
+9409097368,node,supermarket,Prime Supermarket,1.4280068,103.8499883
+9409097568,node,supermarket,Prime Supermarket,1.3540084,103.8909356
+9409346926,node,supermarket,Prime Supermarket,1.3488775,103.9340179
+9409357165,node,supermarket,Prime Supermarket,1.3647233,103.9373235
+9420127457,node,attraction,Switch Room Ruin #NBE,1.324965,103.775771
+9422326217,node,convenience_store,7-Eleven,1.2866409,103.807194
+9432959798,node,supermarket,FairPrice,1.3561864,103.7407008
+9444725476,node,attraction,Gibraltar Crescent Bunker,1.457724,103.835147
+9446948399,node,supermarket,FairPrice,1.3686099,103.856046
+9446978000,node,supermarket,FairPrice,1.345386,103.9454495
+9447014061,node,supermarket,FairPrice,1.3483943,103.9481354
+9454125714,node,supermarket,Bizgram Asia Pte Ltd,1.3032323,103.8531612
+9455014398,node,attraction,Switch 3272 NBE,1.411226,103.756232
+9457700734,node,attraction,Aqueduct,1.335364,103.81527
+9482434887,node,attraction,Coral Park Magic Tree,1.3539848,103.8436927
+9482669238,node,convenience_store,7-Eleven,1.3011625,103.8597143
+9482669248,node,convenience_store,7-Eleven,1.301653,103.8596796
+9547199627,node,supermarket,Farmer,1.326405,103.8467095
+9547232352,node,convenience_store,uMart,1.3209065,103.8526761
+9570750117,node,convenience_store,EverydayMart,1.2849013,103.8469701
+9572704811,node,supermarket,99 Speedmart,1.4698806,103.7812457
+9590181731,node,supermarket,NSK Trade City,1.3972031,103.6263933
+9590181832,node,supermarket,99 Speedmart,1.4173635,103.6221397
+9590275055,node,supermarket,Jaya Grocer,1.4602363,103.7699153
+9604806888,node,convenience_store,7-Eleven,1.3303516,103.7445158
+9611026607,node,supermarket,Unnamed,1.2919972,103.8508677
+9613453632,node,convenience_store,Star Mart,1.3255918,103.89083
+9621199182,node,convenience_store,Murugan Trading,1.3055598,103.8530659
+9621281248,node,convenience_store,Convenient Value Selection,1.3122881,103.8555784
+9621281368,node,convenience_store,Cheers,1.3081013,103.8626937
+9621283818,node,convenience_store,Unnamed,1.3088479,103.858037
+9644754417,node,supermarket,PRIME,1.3230167,103.9240385
+9653458060,node,convenience_store,7-Eleven,1.3159932,103.8933327
+9659942374,node,supermarket,Scoop Wholefoods Australia,1.4060061,103.9021265
+9671017625,node,attraction,Lonely tree,1.3994012,103.9582006
+9671017628,node,attraction,Conserved Terrace Houses,1.3057409,103.9061586
+9671017632,node,attraction,Old Jurong railway,1.32846,103.780294
+9671017634,node,attraction,Railway corridor entry point,1.2752149,103.8323796
+9676920217,node,convenience_store,7-Eleven,1.2845757,103.8440001
+9677203015,node,convenience_store,7-Eleven,1.3034172,103.8597121
+9710704323,node,convenience_store,7-Eleven,1.3040999,103.9017536
+9710870166,node,supermarket,Fancy Mart,1.3053624,103.9047745
+9710870168,node,supermarket,J-mart,1.3054399,103.904823
+9710976712,node,convenience_store,7-Eleven,1.367849,103.8446282
+9732663989,node,convenience_store,Everyday Mart,1.3269207,103.8458629
+9737347767,node,convenience_store,Cheers,1.4179752,103.9013087
+9739022113,node,convenience_store,7-Eleven,1.3085329,103.8620802
+9771166717,node,convenience_store,Fairprice Xpress,1.2775855,103.8350236
+9787669579,node,convenience_store,7-Eleven,1.2794321,103.8353464
+9810396717,node,supermarket,Sri Murugan,1.3429652,103.9531897
+9810396750,node,supermarket,Giant Supermarket,1.3432179,103.9532924
+9810563663,node,convenience_store,7-Eleven,1.3427171,103.9538214
+9810591360,node,convenience_store,7-Eleven,1.3537444,103.9448725
+9810686287,node,convenience_store,7-Eleven,1.3533698,103.9409247
+9821433868,node,attraction,"rock markings by visitors, stone balancing art",1.3556929,103.7826453
+9838270951,node,convenience_store,Indomaret,1.1511088,104.0091224
+9849115508,node,convenience_store,FamilyMart,1.4392505,103.6202304
+9858442989,node,convenience_store,Get'n'go,1.2985982,103.8517487
+9858457449,node,convenience_store,Come N Grab,1.3223182,103.8529654
+9872240462,node,convenience_store,7-Eleven,1.3900165,103.8986044
+9876332636,node,convenience_store,Octobox,1.3044723,103.7728753
+9882292517,node,supermarket,KL Mart,1.3298063,103.8738978
+9882321317,node,supermarket,New Econ,1.327725,103.8852282
+9885134556,node,supermarket,Hao Mart,1.399826,103.9193669
+9885569821,node,convenience_store,7-Eleven,1.2854461,103.8451042
+9887532386,node,convenience_store,7-Eleven,1.2982654,103.8501318
+9892668516,node,convenience_store,Cheers,1.2992967,103.8456383
+9893218543,node,convenience_store,Indian Supermarket,1.3064976,103.8535661
+9893218555,node,convenience_store,7-Eleven,1.3221251,103.7385109
+9893218556,node,attraction,Penarakan Houses,1.3109516,103.9041935
+9905602684,node,supermarket,FairPrice Finest,1.3104,103.7961374
+9929710771,node,convenience_store,7-Eleven,1.4179161,103.841087
+9931666718,node,supermarket,J Mart,1.3720748,103.8887513
+9941734490,node,supermarket,Fairprice Xpress,1.3007277,103.8496842
+9954715124,node,supermarket,Li Cheng Supermarket,1.4025259,103.90126
+9954734836,node,convenience_store,Cheers,1.4044318,103.9020815
+9994716417,node,supermarket,HAO Mart,1.3998191,103.9194725
+9996562226,node,convenience_store,Unnamed,1.3442662,103.7465795
+10000868254,node,convenience_store,Joo Guan Hin Minimart,1.3394161,103.7449892
+10015221485,node,convenience_store,Bangkit Kiosk,1.3009709,103.8408905
+10017979846,node,convenience_store,7-Eleven,1.2983904,103.849222
+10027091318,node,convenience_store,Star Mart,1.3090877,103.9108134
+10028555317,node,convenience_store,7-Eleven,1.3087349,103.9117256
+10030129567,node,convenience_store,7-Eleven,1.2878028,103.8471937
+10125572295,node,supermarket,Fortune Supermarket,1.4020081,103.9137946
+10135413017,node,convenience_store,Umart,1.3835401,103.8970773
+10140057893,node,supermarket,Don Don Donki,1.3208756,103.8439889
+10140211512,node,convenience_store,Cheers,1.3977329,103.8180439
+10173455441,node,convenience_store,Anua,1.2701843,103.7958178
+10186111420,node,attraction,Rock Sorter,1.3439377,103.7813695
+10201802665,node,convenience_store,7-Eleven,1.2772604,103.8198223
+10208611017,node,supermarket,Sheng Siong,1.3878258,103.763142
+10242087186,node,convenience_store,Cheers,1.315615,103.8960412
+10242087188,node,convenience_store,Heritage Fresh,1.3054063,103.9039466
+10242087194,node,convenience_store,7-Eleven,1.3044196,103.9032456
+10243959801,node,convenience_store,7-Eleven,1.3029732,103.9061812
+10248705287,node,convenience_store,Food-Joy,1.280511,103.7868416
+10283913609,node,supermarket,Balu Supermarket,1.3218547,103.6605328
+10288801409,node,convenience_store,Cheers,1.3620149,103.8554604
+10297814050,node,supermarket,Mei Tang,1.3262681,103.8637132
+10298236705,node,convenience_store,Cheers,1.3579747,103.8447926
+10309863709,node,supermarket,Sheng Siong,1.357195,103.7435147
+10310520680,node,attraction,Spectra,1.2844155,103.8579351
+10310525733,node,attraction,Pipes,1.3507915,103.7850961
+10538809251,node,mrt_station,HarbourFront,1.265362,103.8215518
+10567469069,node,supermarket,FairPrice,1.3869539,103.7616549
+10567714560,node,convenience_store,Ashmi,1.2761314,103.7930731
+10583144109,node,supermarket,Oriental Outlet,1.397532,103.6262573
+10583181506,node,mall,Box in Box,1.3969988,103.6303365
+10583327405,node,convenience_store,7-Eleven,1.4415424,103.6169661
+10583327406,node,convenience_store,Yellow Mart,1.4411186,103.6171376
+10586652587,node,supermarket,FairPrice Xpress,1.304817,103.7725315
+10605343160,node,supermarket,Honest Bee Habitat,1.2762273,103.7971243
+10661711850,node,convenience_store,Unnamed,1.3210372,103.7481547
+10661711851,node,convenience_store,Unnamed,1.3207219,103.7484239
+10692285105,node,attraction,Tan Hoon Siang Mist House,1.3133077,103.814459
+10692469801,node,supermarket,Sheng Siong,1.3632233,103.8952516
+10718876434,node,convenience_store,7-Eleven,1.3837947,103.8928137
+10718876438,node,supermarket,FairPrice Finest,1.3825576,103.8922195
+10722732806,node,supermarket,Fairprice Xpress,1.3184958,103.9024297
+10722736505,node,convenience_store,7-Eleven,1.3185253,103.9026121
+10732752509,node,convenience_store,7-Eleven,1.2554609,103.8208999
+10765737805,node,convenience_store,7-Eleven,1.2887598,103.8447284
+10766173405,node,convenience_store,Everyday Mart,1.2869515,103.8479049
+10771041183,node,convenience_store,7-Eleven,1.3005707,103.8511339
+10772545812,node,convenience_store,Cheers,1.342693,103.7321775
+10779473004,node,convenience_store,Anagreen,1.3511504,103.7579763
+10792696006,node,convenience_store,myNEWS.com,1.3967406,103.6303816
+10797144802,node,convenience_store,Kedai Serbaneka Point,1.4195949,103.6363245
+10798810205,node,supermarket,FairPrice Finest,1.3505336,103.8488463
+10804307907,node,convenience_store,Gin Hin Lee,1.314888,103.8959475
+10808393877,node,supermarket,Scarlett Supermarket,1.3338571,103.8877974
+10833950728,node,convenience_store,7-Eleven,1.4530992,103.8166963
+10838701190,node,convenience_store,7-Eleven,1.3672033,103.9645786
+10855812013,node,convenience_store,Unnamed,1.2667255,103.8193158
+10859794065,node,convenience_store,Cold Storage On The Go,1.430858,103.7842892
+10877063851,node,supermarket,BNM Trading,1.31035,103.9018166
+10877165736,node,convenience_store,7-Eleven,1.2795626,103.8508396
+10891405955,node,convenience_store,7-Eleven,1.3388158,103.8721172
+10891405962,node,supermarket,FairPrice Finest,1.3385533,103.8712185
+10918168209,node,convenience_store,Chip Aik Liquor Co.,1.3068953,103.8000189
+10948389883,node,convenience_store,Unnamed,1.2921326,103.8505754
+10948389888,node,convenience_store,YY Supermart,1.3258884,103.848743
+10956835506,node,convenience_store,Cheers,1.3620433,103.9894134
+10968855493,node,convenience_store,7-Eleven,1.3003605,103.8491786
+10982029074,node,convenience_store,Unnamed,1.3140025,103.8555765
+10984154764,node,convenience_store,Majfa Mini Market,1.3772271,103.8938136
+10991987484,node,convenience_store,7-Eleven,1.3165489,103.7829893
+10991987497,node,supermarket,Eccellente by Hao Mart,1.316766,103.7831583
+11003093905,node,convenience_store,7-Eleven,1.3386798,103.7059919
+11012000790,node,convenience_store,Cheers,1.3707066,103.8813918
+11023056262,node,convenience_store,7-Eleven,1.3353279,103.9619197
+11023056281,node,supermarket,MCP FAIRMART 百鮮超市,1.3328871,103.9379857
+11051268241,node,convenience_store,Indomaret,1.1547472,103.9976631
+11051270959,node,convenience_store,Circle K,1.1541926,103.9975557
+11051290916,node,convenience_store,Harbour Mart,1.1542344,103.9977396
+11051293556,node,convenience_store,Indomaret,1.1530137,103.9993444
+11053178959,node,convenience_store,Circle K,1.1526793,104.0035068
+11053196258,node,convenience_store,Circle K,1.1535224,103.9989764
+11064062035,node,convenience_store,Circle K,1.1470534,104.0099352
+11064077862,node,convenience_store,Alfamart,1.1450808,104.0109733
+11066472673,node,convenience_store,Circle K,1.145552,104.0175282
+11068133048,node,convenience_store,Unnamed,1.4677664,104.0066157
+11068641273,node,supermarket,Chaung Thar Myanmar Minimart,1.3438372,103.7367607
+11068831654,node,convenience_store,Circle K,1.1534855,103.999486
+11068838601,node,convenience_store,Circle K,1.1505595,104.0029011
+11079698217,node,convenience_store,7-Eleven,1.3776063,103.9550626
+11085068430,node,convenience_store,Family needs,1.3140063,103.8543181
+11090494215,node,convenience_store,Everyday Mart,1.3019901,103.8527093
+11090494248,node,supermarket,Thai Supermarket,1.3097081,103.8643862
+11115314582,node,supermarket,"Sing Hiong Market, Bakery & Confectionery",1.3331217,103.8787865
+11115314592,node,convenience_store,7-Eleven,1.329003,103.8697216
+11145697605,node,attraction,RUD Karting Medini,1.405086,103.6256722
+11146208305,node,attraction,Kampong Glam,1.3015486,103.8622729
+11166377840,node,convenience_store,7-Eleven,1.4283329,103.849813
+11166401594,node,convenience_store,7-Eleven,1.4160474,103.8440404
+11173633074,node,convenience_store,Cheers,1.2992744,103.7717876
+11194372066,node,convenience_store,7-Eleven,1.4251368,103.8461193
+11194372067,node,convenience_store,7-Eleven,1.4228999,103.8405397
+11194372068,node,convenience_store,7-Eleven,1.420792,103.8384014
+11194372069,node,convenience_store,7-Eleven,1.4177162,103.8371674
+11210351494,node,convenience_store,Cool Spot,1.294305,103.7740902
+11211952138,node,convenience_store,Noble,1.4176673,103.6558636
+11215128292,node,convenience_store,7-Eleven,1.4033079,103.8953614
+11246971144,node,attraction,Unnamed,1.2973465,103.867212
+11247741237,node,convenience_store,7-Eleven,1.347438,103.8510991
+11250996660,node,supermarket,Sri Murugan Trading Pte Ltd,1.3472178,103.7576464
+11251028164,node,convenience_store,7-Eleven,1.2924056,103.8425678
+11259028637,node,supermarket,Dried Food Shop,1.1466665,104.008312
+11276372434,node,convenience_store,7-Eleven,1.3804677,103.8411464
+11276372438,node,convenience_store,Valu$,1.3798053,103.8401138
+11279549816,node,convenience_store,7-Eleven,1.3555498,103.7410212
+11281483101,node,supermarket,FairPrice,1.397714,103.9196121
+11281496361,node,supermarket,Quan Shui Wet Market,1.3836916,103.8280781
+11288867468,node,attraction,Former Malay Film Productions,1.326446,103.8514982
+11297615962,node,convenience_store,Shirley Fruits Stall,1.3248119,103.8422527
+11297615968,node,convenience_store,Lion View Mini-mart,1.3282275,103.8515688
+11301184692,node,supermarket,FairPrice,1.3655022,103.7750303
+11335540708,node,convenience_store,7-Eleven,1.2991186,103.8489352
+11343336036,node,convenience_store,7-Eleven,1.3210192,103.8442524
+11346722108,node,convenience_store,HAO Mart,1.313437,103.8769362
+11356108966,node,convenience_store,FamilyMart,1.4623694,103.7634459
+11369596869,node,supermarket,Don Don Donki,1.3596752,103.9895144
+11381484482,node,convenience_store,7-Eleven,1.3312478,103.8687507
+11381484490,node,supermarket,Shine Korea,1.30938,103.8642993
+11381484493,node,convenience_store,Buzz,1.2665683,103.8195633
+11383217664,node,attraction,Sarang Buaya Pasir Gudang,1.4425345,103.9985207
+11383343394,node,convenience_store,7-Eleven,1.3995317,103.9160233
+11390109688,node,convenience_store,7-Eleven,1.3524028,103.6915492
+11391932593,node,convenience_store,Octobox,1.31841,103.8625803
+11391932596,node,supermarket,Unnamed,1.3224483,103.859819
+11395308336,node,convenience_store,SKK Minimart,1.3095202,103.8780952
+11395312838,node,convenience_store,Unnamed,1.3112131,103.8811827
+11402748478,node,convenience_store,eMart,1.4060328,104.0294101
+11408710034,node,supermarket,Shwe Innwa,1.2921331,103.8509462
+11409722849,node,convenience_store,7-Eleven,1.3065805,103.788086
+11425781159,node,supermarket,OVM Super Store,1.3228067,103.8522385
+11425781164,node,convenience_store,Cheers,1.304057,103.85278
+11428033348,node,supermarket,Sheng Siong,1.4328979,103.8413083
+11434168629,node,supermarket,CS Fresh,1.3114694,103.7938895
+11453018441,node,supermarket,FairPrice,1.3251781,103.8510683
+11472827660,node,attraction,Bugis Street Back Lane,1.3009022,103.8550275
+11476120570,node,convenience_store,7-Eleven,1.2930454,103.8609546
+11480763369,node,convenience_store,7-Eleven,1.2972164,103.8525338
+11521903331,node,supermarket,Finest Gourmet,1.3167154,103.835276
+11551177843,node,convenience_store,KK Super Mart,1.459141,103.7649302
+11551177856,node,convenience_store,KK Super Mart,1.4586653,103.7686945
+11563386250,node,convenience_store,Mini Mart by Swee Swee,1.3103857,103.8583834
+11563386255,node,convenience_store,7-Eleven,1.3037687,103.8541332
+11563386257,node,convenience_store,7-Eleven,1.3065145,103.8561673
+11563386264,node,supermarket,Shine Korea,1.2964128,103.8538356
+11584408978,node,convenience_store,Cheers,1.2989579,103.850661
+11591805134,node,convenience_store,Unnamed,1.3049996,103.863108
+11627248778,node,convenience_store,7-Eleven,1.2850377,103.8500724
+11658881480,node,supermarket,FairPrice Finest,1.2910606,103.8454824
+11663229540,node,convenience_store,7-Eleven,1.2931665,103.8528358
+11707582108,node,convenience_store,7-Eleven,1.4596585,103.7686332
+11724980057,node,convenience_store,S.Mart,1.3011133,103.860837
+11754949203,node,convenience_store,Aruna Minimart,1.3057989,103.85756
+11762038779,node,attraction,Entrance portal,1.2841796,103.781357
+11762046209,node,attraction,Tiger Car,1.2840974,103.7817827
+11806649909,node,attraction,Balestier Art Deco shophouses,1.3216239,103.8530549
+11816822660,node,mall,Excelsior Shopping Centre,1.2920995,103.8496887
+11818534979,node,attraction,Sim Kwong Ho shophouses,1.323241,103.8525342
+11819634278,node,attraction,Symphony Streams,1.2525766,103.8182518
+11819634279,node,attraction,Scented Sphere,1.2530247,103.8185643
+11819634280,node,attraction,Tactile Trellis,1.2534744,103.8188211
+11819634282,node,attraction,Glow Garden,1.2521276,103.8180991
+11826608205,node,supermarket,Little Farms,1.3068977,103.9044849
+11828532018,node,attraction,Kwan Loon Yen Shophouses,1.3257075,103.8497048
+11834966923,node,convenience_store,Kalam Mart,1.3134347,103.8568393
+11841394941,node,convenience_store,Unnamed,1.3226544,103.8638733
+11862049582,node,attraction,VIP Orchid Garden,1.3124833,103.8136894
+11898833293,node,convenience_store,Unnamed,1.3084518,103.857096
+11898833296,node,convenience_store,T&T,1.3166161,103.8577924
+11935023515,node,convenience_store,AVM Mart,1.3135462,103.8550091
+11935055726,node,convenience_store,Cmart,1.3189094,103.8807963
+11936563707,node,attraction,Pesona Alam Tangga Seribu,1.1448381,103.9472026
+11949558318,node,convenience_store,7-Eleven,1.3967434,103.8885574
+11949558320,node,supermarket,FairPrice,1.3968408,103.8887344
+11949579203,node,convenience_store,Kedai Serbaneka S Eleven Mart,1.4686215,103.7803068
+11981074572,node,convenience_store,7-Eleven,1.2771886,103.8387245
+12006432723,node,convenience_store,7-Eleven,1.4169047,103.8316253
+12052367779,node,supermarket,Sheng Siong,1.4264721,103.8523288
+12053283536,node,convenience_store,7-Eleven,1.3629593,103.7644818
+12053284802,node,convenience_store,Scarlett Choice,1.3329224,103.8490136
+12054144080,node,supermarket,Ang mo supermarket,1.3362266,103.8481281
+12064274438,node,supermarket,CS Fresh,1.3172829,103.8361658
+12091963976,node,convenience_store,No. 1,1.3754102,103.7688959
+12143316812,node,convenience_store,7-Eleven,1.3724442,103.9492106
+12143316817,node,convenience_store,7-Eleven,1.3722569,103.9496268
+12143316850,node,convenience_store,Cheers,1.3735701,103.9481601
+12143316854,node,supermarket,Cold Storage,1.3734003,103.9483566
+12143901706,node,supermarket,Scarlett Supermarket,1.3735783,103.9485573
+12144371951,node,convenience_store,7-Eleven,1.3003518,103.8386503
+12144394179,node,convenience_store,7-Eleven,1.3339507,103.7450304
+12144394184,node,convenience_store,7-Eleven,1.3343449,103.743411
+12151759028,node,supermarket,Jaya Grocer,1.4403301,103.6168033
+12167950497,node,convenience_store,7-Eleven,1.3162611,103.8052768
+12206907471,node,convenience_store,Shell Select,1.3355341,103.9613438
+12208443304,node,convenience_store,Shell Select,1.3700556,103.8282028
+12208481214,node,convenience_store,Star Mart,1.3710034,103.8281832
+12213651275,node,supermarket,Shafen Supermarket,1.3212835,103.7368405
+12213651285,node,convenience_store,Archana Store,1.3214646,103.742554
+12217258698,node,supermarket,Giant Supermarket,1.3577052,103.7341028
+12219352637,node,convenience_store,Mama shop,1.4413891,103.7923057
+12221858245,node,convenience_store,7-Eleven,1.362596,103.9549904
+12245486094,node,convenience_store,7-Eleven,1.3552006,103.9867896
+12257756773,node,convenience_store,Hu Cheng Long,1.281739,103.8443228
+12260764054,node,convenience_store,Cheers,1.3015936,103.8571608
+12260881532,node,convenience_store,7-Eleven,1.3589238,103.7356947
+12296193950,node,convenience_store,Mini Bear Mart,1.466015,103.7598271
+12300474857,node,convenience_store,myNEWS.com,1.4638966,103.7619516
+12300616708,node,convenience_store,Shell Select,1.4646541,103.7614136
+12328635151,node,convenience_store,Cheers,1.4283651,103.8356417
+12338351033,node,supermarket,Norman,1.401599,103.8925761
+12348356535,node,supermarket,Shine Korea,1.3011207,103.8551876
+12375757825,node,convenience_store,New Castle Kiosk,1.3495469,103.9527154
+12376339754,node,convenience_store,7-Eleven,1.3155448,103.765037
+12389540382,node,attraction,Grave of Tan Tock Seng,1.2860508,103.835076
+12389884514,node,supermarket,Sheng Siong,1.3221996,103.7637347
+12395685748,node,convenience_store,Unnamed,1.3152277,103.7668548
+12395685749,node,convenience_store,Unnamed,1.3140673,103.7670577
+12396601849,node,convenience_store,Starhub,1.3087437,103.8553048
+12398930598,node,convenience_store,Buzz,1.383237,103.89241
+12408773894,node,convenience_store,7-Eleven,1.347772,103.952088
+12408796229,node,convenience_store,iEcon,1.3477101,103.9517138
+12412793523,node,convenience_store,Unnamed,1.2874954,103.7918887
+12444176294,node,convenience_store,7-Eleven,1.3914898,103.8503022
+12460807385,node,convenience_store,7-Eleven,1.3572838,103.9863179
+12476193466,node,convenience_store,Grocer @ Interlace,1.2817746,103.8030981
+12509455047,node,supermarket,Scarlett 思家客,1.2851743,103.8447256
+12522217013,node,supermarket,Scarlett 思家客,1.3918557,103.8759328
+12522532888,node,supermarket,Scarlett 思家客,1.3342909,103.7427095
+12526532933,node,supermarket,TaoYuan 桃園,1.4295823,103.8356806
+12533886455,node,attraction,Decomissioned Bus,1.3240028,103.8464627
+12533886457,node,convenience_store,7-Eleven,1.3214767,103.8462435
+12534146701,node,convenience_store,Cheers,1.2822068,103.8483879
+12541123301,node,attraction,KidZania Singapore,1.2513879,103.8203676
+12546605560,node,convenience_store,7-Eleven,1.2991636,103.8576264
+12571054993,node,convenience_store,Cheers,1.3379184,103.9828744
+12573500731,node,supermarket,FairPrice Finest,1.3521474,103.9439445
+12606919605,node,supermarket,Sheng Siong,1.3171819,103.9466204
+12630420019,node,attraction,Wild Cavern Adventure,1.4081331,103.7823191
+12630420020,node,attraction,Wild Apex Adventure,1.4100242,103.7797486
+12630420021,node,attraction,Canopy Jump,1.4098631,103.7823814
+12630420028,node,attraction,Blind Cave Fish,1.4082451,103.7818683
+12630420050,node,attraction,Estuarine Crocodile,1.4085907,103.7815149
+12630420051,node,attraction,Phillipine Spotted Deer,1.4104371,103.7836819
+12630420052,node,attraction,Siamang,1.4099773,103.7833604
+12630420053,node,attraction,Red-Shanked Douc Langur,1.4101145,103.7835872
+12630420054,node,attraction,Javan Langur,1.410239,103.7833381
+12630420055,node,attraction,Asian Brown Tortoise,1.4098888,103.7806625
+12630420056,node,attraction,Southern River Terrapin,1.4092631,103.780942
+12630420057,node,attraction,Asian Black Scorpion,1.4085985,103.7812736
+12630420058,node,attraction,Madagascar Hissing Cockroach,1.4080778,103.782277
+12630420059,node,attraction,Cave Racer,1.4084179,103.7815289
+12630420060,node,attraction,Hog Deer,1.4099604,103.7808906
+12630449339,node,attraction,Francois' Langur,1.4098592,103.7798054
+12630449340,node,attraction,Malayan Tiger,1.4102156,103.7823354
+12630449341,node,attraction,Red Dhole,1.4101759,103.7814768
+12696689655,node,convenience_store,7-Eleven,1.4631485,103.7618324
+12697721123,node,convenience_store,Impian Muafakat,1.4627433,103.7626592
+12697721131,node,convenience_store,MK Tee,1.4625313,103.7627785
+12697721133,node,convenience_store,Amazing Breakfield,1.4627721,103.7626343
+12697721138,node,convenience_store,Saras,1.4623922,103.7623121
+12697721140,node,convenience_store,Cermai,1.4625949,103.7621452
+12697721146,node,convenience_store,KKA Global,1.4626889,103.7626738
+12697721152,node,convenience_store,Sky Home Worldwide,1.4630538,103.7624761
+12698267869,node,supermarket,KNN Supermarket,1.4614616,103.7633276
+12698267873,node,convenience_store,Zayyar Mart,1.4609604,103.7635965
+12699149918,node,convenience_store,Eaindra Mart,1.4608428,103.7636476
+12699149925,node,convenience_store,ZSN Jaya Enterprise,1.461049,103.7635266
+12704969530,node,convenience_store,7-Eleven,1.3528055,103.954468
+12705014482,node,convenience_store,7-Eleven,1.3536164,103.9525961
+12738707256,node,supermarket,FairPrice,1.4173577,103.9113389
+12761904062,node,convenience_store,7-Eleven,1.3220724,103.8440238
+12765879086,node,convenience_store,7-Eleven,1.2547142,103.8143452
+12796970276,node,convenience_store,7-Eleven,1.4208848,103.9123354
+12797074415,node,convenience_store,Wisionly,1.4158569,103.9021036
+12797683790,node,supermarket,Richfield Supermarket,1.3241765,103.8653676
+12844038341,node,mrt_station,VivoCity,1.265099,103.8223324
+12876887663,node,convenience_store,7-Eleven,1.3021914,103.8406304
+12883587133,node,convenience_store,7-Eleven,1.3374827,103.6968231
+12888735788,node,supermarket,Scarlett,1.3386728,103.7049669
+12892427130,node,convenience_store,Unnamed,1.4342062,103.7902231
+12941398234,node,convenience_store,Chip Huat,1.4380439,103.7779606
+12959388847,node,convenience_store,Valu$,1.3467203,103.9447478
+13001005377,node,supermarket,Soon Hock Supermart,1.2864657,103.80512
+13003730769,node,supermarket,Giant,1.4248905,103.7620036
+13008933810,node,convenience_store,P.M Haja store,1.4415007,103.7734923
+13032602188,node,attraction,Unnamed,1.2871502,103.8419388
+13038537201,node,convenience_store,7-Eleven,1.3163096,103.898835
+13042628603,node,attraction,Mural: Samsui Lady with Cigarette,1.2812004,103.8450868
+13049604601,node,attraction,Ring-tailed Lemur,1.4055206,103.7950278
+13049604701,node,attraction,Giant Gourami,1.405497,103.7946887
+13049604801,node,attraction,Arapaima,1.405289,103.7942534
+13049610003,node,attraction,Mini Monkeys,1.4052567,103.7942377
+13049610901,node,attraction,Hamadryas Baboon,1.4056769,103.7939919
+13061634064,node,convenience_store,Market,1.280687,103.8445145
+13072391423,node,supermarket,Sheng Siong,1.2994434,103.8474864
+13076091384,node,convenience_store,7-Eleven,1.3783141,103.7625814
+13095416301,node,supermarket,Luna Supermark,1.2946601,103.8419113
+13105457401,node,convenience_store,FairPrice Xpress,1.3775748,103.7501063
+13115766609,node,convenience_store,7-Eleven,1.394261,103.9127552
+13127579436,node,supermarket,Fairprice Finest,1.4147846,103.9134749
+13127579439,node,convenience_store,Cheers,1.4145912,103.9108605
+13148718401,node,supermarket,FairPrice,1.3855717,103.7662801
+13195491837,node,convenience_store,Valuemart,1.2965629,103.853988
+13277238484,node,convenience_store,7-Eleven,1.2876803,103.8358439
+13300508001,node,attraction,The Chandelier Slide,1.3398349,103.9843723
+13347701343,node,convenience_store,EZ Mart,1.3201356,103.753637
+13377979326,node,mrt_station,Bukit Chagar,1.4662412,103.7621858
+13378128305,node,supermarket,AK Supermarket,1.3736751,103.7657473
+13385733672,node,supermarket,Pasar Raya Hero Market,1.4663317,103.9006213
+13385951403,node,supermarket,TWMS Supermart Pte Ltd,1.3112267,103.8589731
+13395415735,node,convenience_store,Unnamed,1.374867,103.9405312
+13409743701,node,attraction,Eco Tourism Kampung Sungai Melayu Eco Tourism ( PELANCONGAN) Kampung Sungai Melayu,1.4548764,103.6914388
+13439388801,node,attraction,Wetlands,1.310183,103.8138728
+13439431001,node,attraction,Frangipani Garden,1.3100318,103.8165823
+13446187521,node,convenience_store,7-Eleven,1.3764616,103.8560303
+13446187523,node,supermarket,Sheng Siong,1.3765371,103.8564302
+13467715548,node,convenience_store,Little Tukang Minimart,1.3265393,103.7155794
+13476587355,node,convenience_store,Cheers,1.3676942,103.7638656
+13495680401,node,attraction,Amphitheater,1.4036464,103.7892601
+13505838515,node,supermarket,FairPrice,1.3181006,103.8600811
+13516693441,node,convenience_store,7-Eleven,1.3711193,103.9629431
+13527850101,node,attraction,Zero Kilometre (0 KM) of Peninsular Malaysia,1.4556069,103.7619812
+13533995130,node,supermarket,Sheng Siong,1.3982954,103.8763818
+13535873205,node,supermarket,99 Speedmart,1.468779,103.6245604
+13539468834,node,supermarket,99 Speedmart,1.4645719,103.6546899
+13589656256,node,convenience_store,myNEWS.com,1.4596119,103.7696432
+13594782707,node,supermarket,99 Speedmart,1.4585318,103.9126357
+13620474174,node,convenience_store,7-Eleven,1.3365526,103.7376
+13620474175,node,convenience_store,Jurong Provision Shop,1.3384227,103.7359054
+13620474200,node,convenience_store,Bao Sheng Mini Mart,1.3392894,103.7345938
+13625840901,node,convenience_store,7Eleven,1.313586,103.828838
+13626465071,node,convenience_store,7-Eleven,1.3003064,103.8451663
+13671539191,node,convenience_store,7-Eleven,1.2803249,103.8511221
+13681011293,node,convenience_store,Cheers,1.3495052,103.8739201
+13684662328,node,convenience_store,7-Eleven,1.285227,103.8524644
+13688934218,node,supermarket,Hong Fu Mart,1.3539125,103.8341305
+13690405021,node,attraction,Bambi Caravan,1.4094177,103.8683192
+13694890376,node,supermarket,ACE Signature @ NTP+,1.3516285,103.8617809
+13754041201,node,convenience_store,Unnamed,1.3055831,103.8551211
+13818524315,node,convenience_store,7-Eleven,1.4482349,103.8190631
+13818524322,node,convenience_store,Buzz,1.4476365,103.8194675
+13818524324,node,convenience_store,7-Eleven,1.4475943,103.8149784
+13838007665,node,supermarket,Sheng Siong,1.4456534,103.830946
+13944659061,node,mrt_station,Pasir Gudang,1.448095,103.9254748
+13990161819,node,supermarket,Sheng Siong,1.4461684,103.8141502
+14057625690,node,supermarket,思家客 Scarlett,1.3089362,103.8577985
+14079375827,node,convenience_store,Mynews,1.4170801,103.6560577
+14096587301,node,attraction,durian tree,1.3237485,103.7684975
+14098352205,node,convenience_store,7-Eleven,1.3371959,103.9827811
+14102211328,node,convenience_store,7-Eleven,1.4461869,103.7981089
+14104573206,node,convenience_store,Unnamed,1.388888,103.9878238
+14104573207,node,convenience_store,Unnamed,1.3888647,103.9877254
+14104573208,node,convenience_store,Unnamed,1.3886191,103.988036
+14112574988,node,convenience_store,Unnamed,1.3710283,103.9603906
+14122698961,node,convenience_store,Cheers,1.2964261,103.8499345
+14123167527,node,convenience_store,Hong Hong Minimart,1.3462045,103.6930764
+14135355170,node,convenience_store,Grocer Supermarket,1.3411519,103.6859037
+14135355171,node,convenience_store,KDS Mart,1.3414269,103.6861245
+14136884486,node,convenience_store,SM Mart,1.3591539,103.7519144
+14137361334,node,convenience_store,SNR(S) Trading Pte Ltd,1.3626266,103.7512242
+14137448680,node,convenience_store,Smart Value Trading,1.3614571,103.7512603
+14138787034,node,convenience_store,Vasanth Provision Pte Ltd,1.3600082,103.7509664
+14138839320,node,convenience_store,Sri Murugan Trading Pte Ltd,1.3595777,103.7508068
+14138839353,node,convenience_store,Fresh Pick Mart,1.3594162,103.7506569
+14138839354,node,convenience_store,Krishna Stores Pte Ltd,1.3595176,103.750655
+14139309093,node,convenience_store,Shell Select,1.3317286,103.8887385
+14141647473,node,convenience_store,Sin Yong Choon Farm Products Mini Mart,1.3611341,103.7481894
+14141902499,node,convenience_store,Good Price Hub,1.3622012,103.7478531
+14141929002,node,convenience_store,Wang Wang Minimart,1.3621984,103.7476606
+14143060767,node,convenience_store,Huangs,1.3396551,103.6999066
+14143060768,node,convenience_store,Vinayaga Trading & Supermart,1.3395949,103.6999194
+14148620246,node,supermarket,FairPrice Finest,1.3277703,103.9458094
+14155801291,node,convenience_store,Shun Da Cheng Provision and Minimart,1.3619935,103.7455839
+14156687730,node,convenience_store,Al Bakarah Fresh and Frozen Halal Mart,1.3582757,103.750699
+14156687732,node,convenience_store,Toko Warisan,1.35819,103.7507007
+14156687734,node,convenience_store,Al Bakarah Health and Beauty Mart,1.3581125,103.7507022
+14156687741,node,convenience_store,Toko Warisan Halal Frozen,1.3578492,103.7507073
+14156687772,node,convenience_store,Mingalar Mart,1.3581941,103.7504379
+14157769747,node,convenience_store,Jurong Island Mini-Mart,1.3331371,103.6953632
+14166835665,node,convenience_store,7-Eleven,1.3016848,103.8385481
+14188484445,node,supermarket,FairPrice,1.3259194,103.8898689
+14188484448,node,convenience_store,7-Eleven,1.3258031,103.8899055
+14201908733,node,convenience_store,Huangs,1.3443361,103.6976196
+14202482302,node,attraction,"""The Art of Coexistence"" tree",1.3266075,103.7713565
+26561741,way,mall,Changi Airport Terminal 1,1.3627078,103.9910807
+30527021,way,mall,Sim Lim Square,1.3030332,103.8530255
+32416309,way,mall,Broadway Plaza,1.3719352,103.8459597
+32774292,way,mall,Compass One,1.392017,103.8949564
+32774317,way,mall,Rivervale Plaza,1.3853329,103.9019719
+32774374,way,mall,Rivervale Mall,1.3922311,103.9044753
+32774612,way,mall,Hougang Green Shopping Mall,1.3792878,103.8879261
+32774665,way,mall,Hougang Mall,1.3724413,103.8937329
+33444529,way,mall,Heartland Mall,1.3594964,103.8852025
+33543880,way,mall,IMM,1.3347654,103.7466237
+34575159,way,mall,White Sands,1.3724456,103.9497597
+37357018,way,mall,Jubilee Square,1.3717857,103.8477765
+39487263,way,mall,Raffles City Shopping Centre,1.2938989,103.8533513
+41889431,way,mall,Shaw House,1.3058286,103.8315296
+41889999,way,mall,Orchard Central,1.3006418,103.8398031
+41890217,way,mall,Palais Renaissance,1.3067203,103.8296522
+41890235,way,mall,Orchard Towers,1.3069608,103.82921
+41913741,way,mall,Anchorpoint,1.2886901,103.8050249
+41913930,way,mall,Queensway Shopping Centre,1.287553,103.8034772
+42010371,way,mall,Cathay Cineleisure Orchard,1.3014913,103.836491
+43755568,way,mall,100AM,1.274904,103.8436136
+44121572,way,mall,Parkway Parade,1.3013803,103.9052851
+44121574,way,mall,i12 Katong,1.3051668,103.9050423
+44348591,way,mall,Katong Plaza,1.3042065,103.9038703
+44348592,way,mall,Katong Shopping Centre,1.3038781,103.9011475
+44348658,way,mall,Odeon Katong Shopping Complex,1.3046908,103.9019129
+44414531,way,mall,Bras Basah Complex,1.2968252,103.8536294
+45066510,way,mall,Roxy Square,1.3033509,103.9046069
+45107961,way,mall,Orchard Plaza,1.3012626,103.8411479
+46503583,way,mall,Cuppage Plaza,1.3020387,103.8407359
+46503585,way,mall,The Centrepoint,1.301901,103.8398119
+46503590,way,mall,The Cathay,1.2995246,103.8476648
+46515799,way,mall,Ngee Ann City,1.3026133,103.8347141
+46515800,way,mall,Unnamed,1.3058155,103.8330594
+46518144,way,mall,Pacific Plaza,1.3065597,103.8321236
+46522833,way,mall,Parklane Shopping Mall,1.3006541,103.8494417
+46522843,way,mall,GR.ID,1.3000945,103.8492875
+46529040,way,mall,Sunshine Plaza,1.3003536,103.8509415
+46529046,way,mall,Fortune Centre,1.3003923,103.852284
+46594832,way,mall,Peninsula Plaza,1.2923267,103.8508288
+46595137,way,mall,Suntec City,1.2949861,103.8578759
+46612311,way,mall,Tanglin Mall,1.3048369,103.8238575
+46821373,way,mall,East Point,1.3427269,103.9529868
+46919229,way,mall,Tanjong Katong Complex,1.3163748,103.8943388
+46919233,way,mall,City Plaza,1.3147731,103.8934464
+47198835,way,mall,Tekka Centre,1.3062231,103.8505301
+47198841,way,mall,Mustafa Centre,1.3101243,103.8553164
+47345027,way,mall,OUE Downtown,1.2774025,103.8486711
+48031573,way,mall,Bugis+,1.2996734,103.8541655
+48581160,way,mall,Sun Plaza,1.4481901,103.8195008
+52236347,way,mall,313@Somerset,1.3010177,103.8382874
+54032324,way,mall,Depot Heights Shopping Centre,1.2811645,103.8103282
+54519150,way,mall,Unnamed,1.2830844,103.7805052
+59398752,way,mall,Mall Nagoya Hill Shopping Centre,1.1462711,104.0126145
+62204073,way,mall,Sembawang Shopping Centre,1.4418971,103.824931
+72660563,way,mall,Simei Plaza /Blk 248,1.3435043,103.9536221
+94018008,way,mall,The Centris,1.3394539,103.7052344
+95594924,way,mall,Pioneer Mall,1.3416936,103.697188
+95939467,way,mall,Gek Poh Shopping Centre,1.3490537,103.6977256
+102429452,way,mall,City Square Mall,1.3113867,103.8565834
+104352121,way,mall,The Star Vista,1.306826,103.7884524
+106590697,way,mall,Johor Bahru City Square,1.461701,103.7639846
+107578653,way,mall,Hougang 1,1.3757004,103.8795166
+111151622,way,mall,Alexandra Central,1.2873166,103.8053276
+111610945,way,mall,Old Airport Road Food Centre & Shopping Mall,1.3082588,103.8858301
+116782195,way,mall,Djitsun Mall Bedok,1.3261293,103.9295546
+117035196,way,mall,Thomson Plaza,1.3546006,103.8307974
+117450953,way,mall,Bukit Timah Shopping Center,1.3432601,103.7760509
+117450954,way,mall,Beauty World Centre,1.3423587,103.7765589
+117450957,way,mall,Beauty World Plaza,1.3418287,103.7763037
+118994815,way,mall,The Clementi Mall,1.3149817,103.7642331
+119879842,way,mall,Grantral Mall @ Clementi,1.3142963,103.7651379
+125303510,way,mall,Woodlands North Plaza,1.4427432,103.7908061
+127548081,way,mall,Greenwich V,1.3875058,103.869389
+139670204,way,mall,Upper Serangoon Shopping Centre,1.3536238,103.8788344
+144381429,way,mall,West Coast Plaza,1.3036424,103.766276
+152598430,way,mall,Icon Village,1.2751635,103.8445351
+152638469,way,mall,Holland Road Shopping Centre,1.3102935,103.7953505
+152752624,way,mall,Holland Piazza,1.3106791,103.7952562
+152771400,way,mall,Serene Centre,1.3225228,103.8136892
+153136696,way,mall,Ang Mo Kio Hub,1.369444,103.8483419
+154157497,way,mall,Admiralty Place,1.4402582,103.8012976
+154178431,way,mall,Leisure Park Kallang,1.3021844,103.8765537
+154493306,way,mall,Delfi Orchard,1.3071812,103.8284739
+155096524,way,mall,Orchard Building,1.3014048,103.83735
+155991343,way,mall,Tekka Place,1.3045905,103.8523178
+158234014,way,mall,Westgate,1.3341755,103.7428751
+159940901,way,mall,Coronation Shopping Plaza,1.3238372,103.8100018
+161136289,way,mall,Great World City,1.2936086,103.8318929
+162524446,way,mall,West Mall,1.3500366,103.7492868
+166194030,way,mall,Tampines Mall,1.3525404,103.9447233
+166194031,way,mall,Century Square,1.3523858,103.9437898
+166194476,way,mall,Tampines 1,1.3542178,103.9450121
+167472305,way,mall,Rochester Mall,1.3056598,103.7882026
+170056410,way,mall,SKS Tower,1.4713463,103.7639541
+170403710,way,mall,HDB Hub,1.331993,103.8484823
+172024056,way,mall,Concorde Shopping Centre,1.2889501,103.8342288
+172117296,way,mall,Tiong Bahru Plaza,1.2864016,103.8273286
+172364977,way,mall,Bugis Junction,1.2998158,103.8559023
+172518481,way,mall,Far East Shopping Centre,1.3055354,103.8300911
+172518487,way,mall,Forum The Shopping Mall,1.3060918,103.8287068
+172518491,way,mall,Liat Tower,1.3051056,103.8307274
+172518492,way,mall,Lucky Plaza,1.304515,103.833963
+172518496,way,mall,Paragon,1.3038335,103.8356396
+172518499,way,mall,Tang Plaza,1.3050171,103.8330376
+172518503,way,mall,Wisma Atria,1.3036801,103.8332105
+172521292,way,mall,The Heeren,1.3026344,103.8373397
+172529118,way,mall,Velocity @ Novena Square,1.3197931,103.8438327
+172529121,way,mall,Square 2,1.3207028,103.8441378
+172529122,way,mall,United Square,1.3171615,103.8436059
+173010412,way,mall,Changi Airport Terminal 2,1.3537945,103.9904486
+173010413,way,mall,Changi Airport Terminal 3,1.3546069,103.9850767
+173028320,way,mall,Plaza 8,1.3335115,103.9655221
+173131856,way,mall,Lot One Shoppers' Mall,1.385156,103.745025
+173144799,way,mall,Bukit Panjang Plaza,1.3800081,103.7643116
+173222209,way,mall,Valley Point Shopping Centre,1.2930949,103.8270536
+173235510,way,mall,Downtown East,1.3773417,103.9545899
+174035941,way,mall,nex,1.3504477,103.8723218
+175841411,way,mall,Fusionopolis 1,1.2992432,103.7875698
+178437069,way,mall,Mustafa Centre,1.3090727,103.856499
+178437070,way,mall,Mustafa Centre,1.3094159,103.8560571
+178437071,way,mall,Mustafa Centre,1.3097608,103.8557165
+182822196,way,mall,Midpoint Orchard,1.3017606,103.8386507
+182822197,way,mall,Orchard Gateway,1.3006994,103.8393128
+182848383,way,mall,Sunshine Place,1.3777679,103.7390721
+182867955,way,mall,Shaw Plaza,1.3249589,103.8512623
+201904038,way,mall,Joo Chiat Complex,1.315894,103.8983948
+201940666,way,mall,Gallaria@Kotaraya,1.4595043,103.7628835
+211569124,way,mall,Terminal Feri Antarabangsa Johor Bahru,1.4708828,103.784564
+213582607,way,mall,Loyang Point,1.3669967,103.9646242
+218215289,way,mall,Punggol Plaza,1.3942878,103.9130446
+218269179,way,mall,Paya Lebar Square,1.3188127,103.8926009
+222839478,way,mall,CityLink Mall,1.2922036,103.8545385
+222839479,way,mall,Esplanade Xchange,1.2926076,103.8550321
+222839548,way,mall,Marina Bay Link Mall,1.2809091,103.8537995
+224318439,way,mall,YewTee Point,1.3970877,103.7466613
+231917869,way,mall,ION Orchard,1.3039546,103.8319742
+232164554,way,mall,Greenridge Shopping Centre,1.3853423,103.7662295
+233150122,way,mall,The Seletar Mall,1.3915468,103.8761903
+233927457,way,mall,Yew Tee Square,1.3981768,103.7470048
+233927712,way,mall,Limbang Shopping Centre,1.3919766,103.7432118
+233928141,way,mall,Fajar Shopping Centre,1.3838176,103.770853
+245072068,way,mall,Junction 10,1.3803507,103.7601295
+253921747,way,mall,Harbour Bay Mall,1.1542532,104.0011474
+254815930,way,mall,Bugis Junction,1.2988958,103.8551665
+260571322,way,mall,Royal Square at Novena,1.3205254,103.8432202
+260954106,way,mall,Orchard Shopping Centre,1.3014967,103.8378882
+271791475,way,mall,Zhongshan Mall,1.3271466,103.8463151
+288997556,way,mall,Kallang Wave Mall,1.3034697,103.8732445
+301736937,way,mall,Waterway Point,1.4064594,103.9022278
+303311927,way,mall,Marina Square,1.291286,103.857535
+305882760,way,mall,myVillage,1.3651486,103.8651556
+305950826,way,mall,The Midtown,1.3704125,103.8952223
+305950830,way,mall,Kang Kar Mall,1.3717185,103.8942289
+311724957,way,mall,Jalan Besar Plaza,1.3086303,103.8580368
+328531477,way,mall,Balestier Plaza,1.3257137,103.8503815
+334111739,way,mall,Kinex,1.3146526,103.894811
+334114071,way,mall,Roxy Square,1.3042922,103.9041043
+336813272,way,mall,Crown Centre,1.3230316,103.8111607
+336813273,way,mall,King's Arcade,1.3232798,103.8107148
+364073828,way,mall,Hillion Mall,1.3784413,103.7632996
+364084242,way,mall,Fairprice Hub,1.3260996,103.6783672
+375020383,way,mall,HillV2 Mall,1.3633978,103.7643632
+380512070,way,mall,South Beach Quarter,1.2957356,103.8561555
+380512075,way,mall,South Beach Avenue,1.294755,103.8559721
+393100849,way,mall,Guoco Tower,1.2770148,103.8454718
+393210508,way,mall,Suntec City,1.2949832,103.8601422
+393210509,way,mall,Suntec City,1.2957767,103.8594878
+395022655,way,mall,Grandlink Square,1.3142925,103.8915347
+397586378,way,mall,Northshore Plaza II,1.4178949,103.9013214
+424896140,way,mall,Marina One,1.2772634,103.8529601
+427064874,way,mall,Duo Residences,1.2998789,103.8586495
+428901639,way,mall,Bukit Panjang Plaza,1.378632,103.7621096
+432515092,way,mall,Funan,1.2913892,103.8499874
+432868544,way,mall,Clementi 321,1.3119852,103.7650214
+445001361,way,mall,Wisteria Mall,1.41826,103.8412699
+446775872,way,mall,18 Tai Seng,1.3362972,103.8888324
+447213139,way,mall,Wheelock Place,1.3046867,103.8306774
+450546869,way,mall,Beletime Danga Bay,1.4642446,103.7288794
+455200744,way,mall,Junction Nine,1.4331099,103.8416997
+463063306,way,mall,SingPost Centre,1.3189978,103.8947938
+465145060,way,mall,Aperia Mall,1.3102913,103.8639739
+474909150,way,mall,MacPherson Mall,1.3318081,103.8793743
+492114727,way,mall,Suntec City,1.2960525,103.8587498
+492140544,way,mall,The Zon Duty Free,1.4715585,103.782939
+502013652,way,mall,Marsiling Mall,1.4335488,103.7799603
+510901696,way,mall,Downtown Gallery,1.2769037,103.8483666
+536594588,way,mall,Komtar JBCC,1.4636923,103.762779
+539668158,way,mall,Liat Towers,1.3051056,103.8307274
+539668175,way,mall,Unnamed,1.3050285,103.8330776
+539767937,way,mall,Plaza Singapura,1.3004574,103.8452085
+543400239,way,mall,The Oasis,1.2876789,103.7903736
+547383951,way,mall,Jewel Changi Basement,1.3602685,103.9897711
+561552023,way,mall,Katong Square,1.3047052,103.9047193
+561552026,way,mall,The Flow Mall,1.3045628,103.9042113
+599416637,way,mall,Le Quest Mall,1.3559795,103.7411527
+612290208,way,mall,Lucky Plaza,1.1440193,104.0104147
+620515713,way,mall,Junction 8,1.3505856,103.8486604
+655792110,way,mall,Design Orchard,1.3020646,103.8379316
+675585724,way,mall,Bedok Mall,1.3248368,103.929246
+699168484,way,mall,Clarke Quay Central,1.2889895,103.846628
+707600485,way,mall,Northpoint City,1.4281701,103.8362366
+720898306,way,mall,Canberra Plaza,1.4431827,103.8305208
+728368561,way,mall,Mandarin Gallery,1.3020175,103.8365421
+743764000,way,mall,Bencoolen,1.2984401,103.8499177
+744520551,way,mall,Jewel Changi Airport,1.3602194,103.9896831
+747734200,way,mall,Millenia Walk,1.2926443,103.8593181
+764434018,way,mall,imall,1.303112,103.9065773
+764586885,way,mall,Quayside Isle,1.2470884,103.8421833
+764586886,way,mall,Quayside Isle,1.2479587,103.8416778
+775267642,way,mall,Alexandra Retail Centre,1.2738572,103.8014062
+813559216,way,mall,Big Box Retail Park,1.3967018,103.6278959
+813560283,way,mall,Box in Box,1.3969298,103.6306014
+830592799,way,mall,Changi City Point,1.3340339,103.9630451
+846636702,way,mall,Liv@Changi,1.3586506,103.9694484
+882665431,way,mall,Plantation Plaza,1.3575333,103.7341702
+882665708,way,mall,Parc Point,1.3607004,103.7387585
+987083325,way,mall,Trio,1.3090874,103.856928
+1028775892,way,mall,The Woodleigh Mall,1.3386981,103.8717098
+1077992827,way,mall,The Concourse,1.3008746,103.8618842
+1119658173,way,mall,STELLAR@TE2,1.4350534,103.7881753
+1122039326,way,mall,Sengkang Grand Mall,1.3832033,103.8922549
+1162445410,way,mall,Pasir Ris Mall,1.3738493,103.9487932
+1167087012,way,mall,Eastlink Mall,1.3543611,103.9442853
+1184145477,way,mall,Dairy Farm Mall,1.3660137,103.7750268
+1219289317,way,mall,Balmoral Plaza,1.3164924,103.8354561
+1224044152,way,mall,Lentor Modern,1.3857396,103.8345464
+1226724186,way,mall,One Holland Village,1.3111168,103.7941049
+1294482731,way,mall,Big Block,1.292551,103.8389747
+1385980996,way,mall,Icon Link @ Club Street,1.2831971,103.846816
+1395633020,way,mall,Causeway Point,1.4360462,103.7860055
+1422947828,way,mall,NTP+,1.351377,103.861709
+1432554042,way,mall,Sprout @ AMK,1.3716745,103.8460142
+1489454435,way,mall,Pinery Mall,1.3437251,103.938949
+1495911741,way,mall,Knightsbridge,1.3031632,103.8363537
+1557617776,way,mall,Orchard Gateway @ Emerald,1.3016135,103.8388666
+1560808225,way,mall,888 Plaza,1.4378145,103.7953007

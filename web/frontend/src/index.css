@@ -1,0 +1,110 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Plus Jakarta Sans", "Inter", system-ui, -apple-system, sans-serif;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+
+  --color-brand-50: #eef4ff;
+  --color-brand-100: #dbe6ff;
+  --color-brand-200: #bcd0ff;
+  --color-brand-300: #8fb0ff;
+  --color-brand-400: #5c87fd;
+  --color-brand-500: #3563f0;
+  --color-brand-600: #2447d6;
+  --color-brand-700: #1f39ac;
+  --color-brand-800: #1e3389;
+  --color-brand-900: #1c2e6d;
+
+  --color-accent-50: #fff1ef;
+  --color-accent-100: #ffe1dc;
+  --color-accent-200: #ffc6bc;
+  --color-accent-300: #ff9f8f;
+  --color-accent-400: #ff7259;
+  --color-accent-500: #f8543a;
+  --color-accent-600: #e13a20;
+  --color-accent-700: #bc2c17;
+  --color-accent-800: #982819;
+  --color-accent-900: #7c2618;
+
+  --color-gold-500: #f2a71b;
+
+  --shadow-card: 0 1px 2px rgba(16, 24, 40, 0.06), 0 1px 3px rgba(16, 24, 40, 0.08);
+  --shadow-card-hover: 0 8px 24px rgba(16, 24, 40, 0.12), 0 2px 6px rgba(16, 24, 40, 0.08);
+}
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: #f7f8fb;
+  color: #101828;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+/* Leaflet needs explicit sizing on its container or tiles render blank/broken */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+  z-index: 0;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #d0d5dd;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #98a2b3;
+}
+
+@keyframes shimmer {
+  0% { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+.skeleton {
+  background: linear-gradient(90deg, #eef0f3 25%, #f7f8fa 37%, #eef0f3 63%);
+  background-size: 800px 100%;
+  animation: shimmer 1.4s ease infinite;
+}
+
+/* Smart search bar: a slow-shifting gradient ring that only shows on focus
+   (via focus-within on the parent), and a gentle pulse on the sparkle icon
+   at rest — the two things that make this search bar read as "AI", not a
+   generic input. */
+@keyframes ai-glow-shift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+.ai-glow-ring {
+  background: linear-gradient(120deg, var(--color-brand-500), var(--color-accent-500), var(--color-gold-500), var(--color-brand-500));
+  background-size: 300% 300%;
+  animation: ai-glow-shift 6s ease-in-out infinite;
+}
+
+@keyframes ai-sparkle-pulse {
+  0%, 100% { opacity: 0.65; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.15); }
+}
+.ai-sparkle {
+  animation: ai-sparkle-pulse 2.4s ease-in-out infinite;
+}
+
+@keyframes chip-in {
+  from { opacity: 0; transform: translateY(-4px) scale(0.92); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+.chip-in {
+  animation: chip-in 0.22s ease-out both;
+}

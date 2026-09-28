@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Node (defense in depth — web/frontend and web/backend also have their own)
+node_modules/
+
+# Secrets — never committed, regardless of what's under web/backend/.env.example
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
