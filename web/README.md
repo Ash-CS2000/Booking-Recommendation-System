@@ -37,8 +37,7 @@ The frontend dev server proxies `/api/*` to `localhost:4000` (see
 ## Known follow-ups
 
 - MRT/LRT proximity data is likely undercounted (OpenStreetMap pull found
-  93 stations; Singapore's actual network is 180+) — see the
-  `mrt-poi-undercount` project memory.
+  93 stations; Singapore's actual network is 180+).
 - Free-text search is keyword-only; swap in embedding-based semantic search
   once trained, behind the same `/api/listings?q=` param.
 - No booking/auth flow by design (public pages + search only) — the
